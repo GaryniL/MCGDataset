@@ -1,1 +1,1 @@
-CsvToHtmlTable.init({csv_path:"data/unitmotion/udata.csv",element:"table-container",allow_download:!0,csv_options:{separator:",",delimiter:'"'},datatables_options:{paging:!1}});
+CsvToHtmlTable.init({csv_path:"data/unitmotion/udata.csv",element:"table-container",allow_download:!1,csv_options:{separator:",",delimiter:'"'},datatables_options:{paging:!1}});

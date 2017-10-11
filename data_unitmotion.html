@@ -9,6 +9,7 @@
 		<meta name="author" content="">
 		<title>MSGD-Toolkit</title>
 		<!-- Bootstrap core CSS -->
+		<link href="css/MCGD_data_unitmotion.css" rel="stylesheet">
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 		<link href="css/dataTables.bootstrap.css" rel="stylesheet">
@@ -16,7 +17,8 @@
 		<link href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.bootstrap.min.css" rel="stylesheet">
 		
 		<!-- Custom styles for this template -->
-		<link href="css/MCGD_data_unitmotion.css" rel="stylesheet">		
+		
+		<link href="css/MCGD.css" rel="stylesheet">	
 		
 		
 	</head>
@@ -52,10 +54,6 @@
 		</nav>
 		<!-- Page Content -->
 		<div class="container">
-			<!-- 標題/副標 -->
-			<h1 class="mt-4 mb-3">MSGD
-				<small>Dataset Collections</small>
-			</h1>
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item ">
 					<a href="index.html">Home</a>
@@ -63,7 +61,7 @@
 				<li class="breadcrumb-item ">
 					<a href="index.html">Dataset</a>
 				</li>
-				<li class="breadcrumb-item active">Skeleton Data</li>
+				<li class="breadcrumb-item active">Unit Motion Data</li>
 			</ol>
 			<div class="card mb-4" id="sk-data-list">
 				<div class="card-body">
@@ -85,6 +83,9 @@
 			</div>
 			<!-- card mb-4 -->
 			<div class="card mb-4" >
+				<div class="card-footer text-muted" id="sk-data-dl-all">
+					<a href="#" class="btn btn-primary sk-data-dl-btn">Download All</a>
+				</div>
 				<div class="card-body">
 					<div class="" id='table-container' style=" overflow: scroll;"></div>
 				</div>
