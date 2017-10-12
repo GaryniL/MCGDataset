@@ -75,13 +75,15 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<a href="#">
-							<img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
+							<img class="img-fluid rounded" src="./image/skeleton-raw.png" alt="">
 							</a>
 						</div>
 						<div class="col-lg-6">
-							<h2 class="card-title">Sleleton Raw data</h2>
-							<p class="card-text">This is description of this data type
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
+							<h2 class="card-title">Skeleton Raw data</h2>
+							<p class="card-text">We use Microsoft Kinect tracking user's body movement in experiment and record it as skeleton data in 30 frames per second. We then formatted the skeleton data captured by Microsoft Kinect into plaintext. Researchers who want to analyze the data for further usage can read the data by a formatter script and transform it into any kind of format.</p>
+							<hr>
+							<h4>File Structure</h4>
+							<p class="card-text">Example image shows the format of the skeleton data we got from experiment. We separated each skeleton session by a time point, time point of each session is approximately around 1/30 seconds, according to the frame speed of Microsoft Kinect. In each skeleton session, we log skeleton joints’ position of user. Each joint element denotes a position of user’s skeleton in the 3D space which contains individual’s three-dimensional positions (with x, y, z value) of 10 skeleton joints (head, shoulder, elbow, wrist, hand) at the time point. The length unit of each three-dimensional position is meter, we record them in second decimal place</p>
 						</div>
 					</div>
 					<!-- row -->
@@ -93,7 +95,7 @@
 				<!-- card-body -->
 				<!--Download ALL -->
 				<div class="card-footer text-muted" id="sk-data-dl-all">
-					<a href="./data/skeleton_data/skeleton.zip" class="btn btn-primary sk-data-dl-btn">Download All</a>
+					<a href="./data/skeleton_data/skeleton.zip" class="btn btn-primary sk-data-dl-btn">Download All in Zip</a>
 				</div>
 				
 				<!-- Data row -->

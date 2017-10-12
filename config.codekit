@@ -259,6 +259,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/image\/skeleton-raw.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231493,
+		"inputAbbreviatedPath": "\/image\/skeleton-raw.png",
+		"outputAbbreviatedPath": "\/image\/skeleton-raw.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/image\/toolkit-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
