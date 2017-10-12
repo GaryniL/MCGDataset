@@ -1,1 +1,2 @@
-data/skeleton/
+data/skeleton/*
+*.DS_Store
