@@ -10,13 +10,17 @@
 		<title>MSGD-Toolkit</title>
 		<!-- Bootstrap core CSS -->
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<!-- Custom styles for this template -->
-		<link href="css/MCGD_data_skeleton.css" rel="stylesheet">
-		<link href="css/MCGD.css" rel="stylesheet">
-		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href="css/dataTables.bootstrap.css" rel="stylesheet">
+<!-- 		<link href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css" rel="stylesheet"> -->
+		<link href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.bootstrap.min.css" rel="stylesheet">
+				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<script src="js/MCGD_data_skeleton.js"></script>
+		<!-- Custom styles for this template -->
+		
+		<link href="css/MCGD.css" rel="stylesheet">	
+		<link href="css/MCGD_data_idea.css" rel="stylesheet">
+
+		
 	</head>
 	<body>
 		<!-- Navigation -->
@@ -58,8 +62,16 @@
 			</div>
 			<!-- container -->
 		</nav>
+<!--
+		////////////////////////////////////////////////////////
+		////////////////////////////////////////////////////////
+		////////////////////////////////////////////////////////
+		以上通用
+		////////////////////////////////////////////////////////
+-->
 		<!-- Page Content -->
 		<div class="container">
+			<!-- 標題/副標 -->
 			<h1 class="mt-4 mb-3"><br></h1>
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item ">
@@ -68,52 +80,44 @@
 				<li class="breadcrumb-item ">
 					<a href="index.html">Dataset</a>
 				</li>
-				<li class="breadcrumb-item active">Skeleton Data</li>
+				<li class="breadcrumb-item active">Idea Count</li>
 			</ol>
 			<div class="card mb-4" id="sk-data-list">
 				<div class="card-body">
 					<div class="row">
 						<div class="col-lg-6">
 							<a href="#">
-							<img class="img-fluid rounded" src="./image/skeleton-raw.png" alt="">
+							<img class="img-fluid rounded" src="./image/unitmotion.png" alt="">
 							</a>
 						</div>
 						<div class="col-lg-6">
-							<h2 class="card-title">Skeleton Raw data</h2>
-							<p class="card-text">We use Microsoft Kinect tracking user's body movement in experiment and record it as skeleton data in 30 frames per second. We then formatted the skeleton data captured by Microsoft Kinect into plaintext. Researchers who want to analyze the data for further usage can read the data by a formatter script and transform it into any kind of format.</p>
-							<hr>
-							<h4>File Structure</h4>
-							<p class="card-text">Example image shows the format of the skeleton data we got from experiment. We separated each skeleton session by a time point, time point of each session is approximately around 1/30 seconds, according to the frame speed of Microsoft Kinect. In each skeleton session, we log skeleton joints’ position of user. Each joint element denotes a position of user’s skeleton in the 3D space which contains individual’s three-dimensional positions (with x, y, z value) of 10 skeleton joints (head, shoulder, elbow, wrist, hand) at the time point. The length unit of each three-dimensional position is meter, we record them in second decimal place</p>
+							<h2 class="card-title">Idea Count</h2>
+							<p class="card-text">This is description of this data type
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
 						</div>
 					</div>
 					<!-- row -->
 				</div>
 				
-				
-				
-				
-				<!-- card-body -->
-				<!--Download ALL -->
-				<div class="card-footer text-muted" id="sk-data-dl-all">
-					<a href="./data/skeleton_data/skeleton.zip" class="btn btn-primary sk-data-dl-btn">Download All in Zip</a>
-				</div>
-				
-				<!-- Data row -->
-				<!-- card-footer text-muted -->
-<!-- 				File Download Link Template -->
-<!--
-				<div class="card-footer text-muted">
-					<hh4 class="sk-data-dl-h2">G1_U2_MA2A</hh4>
-					<p>Group：1&emsp;&emsp;Mode：Audio&emsp;&emsp;User：U2&emsp;&emsp;Recored on 2015_08_16</p>
-					<a href="#" class="btn btn-outline-primary sk-data-dl-btn">Download &darr;</a>
-				</div>
--->
-				
-				
 			</div>
 			<!-- card mb-4 -->
+			<div class="card">
+				<div class="card-header" role="tab" id="headingOne">
+					<h5 class="mb-0">
+					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">[Table] Counts of ideas<i class="fa fa-compress collapse-icon " aria-hidden="true"></i></a>
+					<a href="./data/data_idea_count.csv" class="btn btn-primary data-um-dl-btn">Download CSV</a>
+					</h5>
+				</div>
+				
+				<div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
+					<div class="card-body">
+						<div class="" id='table-container-count' style=" overflow: scroll;"></div>
+					</div>
+				</div>
+	        </div>
 		</div>
 		</div>
+		<br><br><br>
 		<!-- /.container -->
 		<!-- Footer -->
 		<div class="footer-bottom bg-dark">
@@ -133,11 +137,17 @@
 				</div>
 			</div>
 		</div>
-		<!-- Bootstrap core JavaScript -->
-		<script src="js/jquery/jquery.min.js"></script>
-		<script src="js/popper/popper.min.js"></script>
-		<script src="bootstrap/js/bootstrap.min.js"></script>
-		
+		<!-- Bootstrap core JavaScript
+	    ================================================== -->
+	    <!-- Placed at the end of the document so the pages load faster -->
+	    <script src="js/popper/popper.min.js"></script>
+	    <script type="text/javascript" src="js/jquery/jquery.min.js"></script>
+	    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+	    <script type="text/javascript" src="js/datatable/jquery.csv.min.js"></script>
+	    <script type="text/javascript" src="js/datatable/jquery.dataTables.min.js"></script>
+	    <script type="text/javascript" src="js/datatable/dataTables.bootstrap.js"></script>
+	    <script type="text/javascript" src="js/datatable/csv_to_html_table.js"></script>
+		<script src="js/MCGD_data_idea.js"></script>
 	</body>
 </html>
 
