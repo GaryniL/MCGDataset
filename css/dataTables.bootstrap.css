@@ -80,6 +80,11 @@ table.dataTable thead .sorting_desc_disabled {
 	position: relative;
 }
 
+@font-face {
+    font-family: Glyphicons Halflings;
+    src: url('../bootstrap/fonts/glyphicons-halflings-regular.woff');
+}
+
 table.dataTable thead .sorting:after,
 table.dataTable thead .sorting_asc:after,
 table.dataTable thead .sorting_desc:after {
