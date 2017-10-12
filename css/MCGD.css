@@ -51,3 +51,8 @@ body {
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+
+table.dataTable{
+	font-size: 9pt;
+	line-height: 1;
+}

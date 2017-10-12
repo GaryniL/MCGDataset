@@ -1,0 +1,1 @@
+CsvToHtmlTable.init({csv_path:"data/data_categorized_gestures.csv",element:"table-container-count",allow_download:!1,csv_options:{separator:",",delimiter:'"'},datatables_options:{paging:!1,aaSorting:[[1,"asc"]]}});
