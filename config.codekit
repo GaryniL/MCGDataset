@@ -188,17 +188,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/data\/skeleton\/skeleton-data-files.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/data\/skeleton\/skeleton-data-files.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/data\/skeleton\/skeleton-data-files-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/data\/skeleton_data\/skeleton-data-files.json": {
 		"fileType": 524288,
 		"ignore": 1,
