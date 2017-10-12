@@ -1,0 +1,10 @@
+.sk-toolkit-proj-btn{
+	float: right;
+}
+
+.footer-bottom {
+    min-height: 30px;
+    width: 100%;
+    position: absolute;
+	bottom: 0;
+}

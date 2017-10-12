@@ -1,0 +1,12 @@
+.footer-bottom {
+    min-height: 30px;
+    width: 100%;
+    position: absolute;
+  bottom: 0;
+}
+
+ul{
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+}
