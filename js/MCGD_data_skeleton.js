@@ -23,7 +23,7 @@ function addFilesToHTML(filename,fullname,titlecnt,group,groupID,mode,user,time)
 	// <a href="#" class="btn btn-outline-primary sk-data-dl-btn">Download &darr;</a>
 	
 	var linkhead1 = "<a href=\"";
-	var link = "./data/skeleton/"+groupID+'/'+fullname;
+	var link = "./data/skeleton_data/"+groupID+'/'+fullname;
 	var linkhead2 = " \" class=\"btn btn-outline-primary sk-data-dl-btn\">";
 	
 	var linkend = "View <i class=\"fa fa-eye\" aria-hidden=\"true\"></i></a>";
@@ -42,7 +42,7 @@ function processFileNameToListName(filename){
 // 	console.log(filename);
 	
 	var arr1 = filename.split('.');
-	var arr2 = arr1[0].split(' #');
+	var arr2 = arr1[0].split('#');
 	
 	var title = arr2[0];
 	var gunarr = arr2[0].split('_');
@@ -56,7 +56,6 @@ function processFileNameToListName(filename){
 // 	console.log(mode);
 	var time = "Recored on "+arr2[1].split('T')[0];
 // 	console.log(time);
-	filename = filename.replace(" ", "%20");
 	filename = filename.replace("#", "%23");
 	addFilesToHTML(filename,filename,title,group,groupID,mode,user,time);
 }
@@ -68,7 +67,7 @@ function listAllFiles(file_arr) {
     }
 }
 
-$.getJSON("./data/skeleton/skeleton-data-files.json", function(data) {
+$.getJSON("./data/skeleton_data/skeleton-data-files.json", function(data) {
 // 	console.log(data["Files"]);
 	var files_array = data.Files;
 	listAllFiles(files_array);
