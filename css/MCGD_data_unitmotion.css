@@ -1,17 +1,39 @@
-#table-container-table_wrapper{
+#table-container-count-table_wrapper{
 /* 	background-color: black; */
 }
 
-#table-container-table_wrapper .row2{
+#table-container-count-table_wrapper .row2{
 	float: none;
     margin: 0 auto;
 }
 
 
+#table-container-count-table_wrapper .row1{
+	float: none;
+    margin-left: 100px;
+}
+
+/*
 
 #table-container-table_filter{
 	float: left;
 }
+*/
+
 .sk-data-dl-btn{
 	float: right;
+}
+
+.collapse-icon{
+	float: right;
+	line-height: 2;
+}
+
+.data-um-dl-btn{
+	float: right;
+	margin-right: 20px;
+}
+
+.title-link{
+	line-height: 2;
 }

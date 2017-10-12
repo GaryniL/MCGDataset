@@ -9,16 +9,17 @@
 		<meta name="author" content="">
 		<title>MSGD-Toolkit</title>
 		<!-- Bootstrap core CSS -->
-		<link href="css/MCGD_data_unitmotion.css" rel="stylesheet">
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/dataTables.bootstrap.css" rel="stylesheet">
 <!-- 		<link href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css" rel="stylesheet"> -->
 		<link href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.bootstrap.min.css" rel="stylesheet">
-		
+				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
 		<!-- Custom styles for this template -->
 		
 		<link href="css/MCGD.css" rel="stylesheet">	
-		
+		<link href="css/MCGD_data_unitmotion.css" rel="stylesheet">
+
 		
 	</head>
 	<body>
@@ -101,18 +102,37 @@
 				
 			</div>
 			<!-- card mb-4 -->
-			<div class="card mb-4" >
-				<div class="card-footer text-muted" id="sk-data-dl-all">
-					<a href="#" class="btn btn-primary sk-data-dl-btn">Download All</a>
+			<div class="card">
+				<div class="card-header" role="tab" id="headingOne">
+					<h5 class="mb-0">
+					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">[Table] Counts of Unit Motions<i class="fa fa-compress collapse-icon " aria-hidden="true"></i></a>
+					<a href="./data/unitmotion/data_unitmotion_count.csv" class="btn btn-primary data-um-dl-btn">Download CSV</a>
+					</h5>
 				</div>
-				<div class="card-body">
-					<div class="" id='table-container' style=" overflow: scroll;"></div>
+				
+				<div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
+					<div class="card-body">
+						<div class="" id='table-container-count' style=" overflow: scroll;"></div>
+					</div>
 				</div>
-			</div>
-			
-
+	        </div>
+	        <div class="card">
+				<div class="card-header" role="tab" id="headingTwo">
+					<h5 class="mb-0">
+					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseOne">[Table] Time of Unit Motions<i class="fa fa-compress collapse-icon" aria-hidden="true"></i></a>
+					<a href="./data/unitmotion/data_unitmotion_time.csv" class="btn btn-primary data-um-dl-btn">Download CSV</a>
+					</h5>
+				</div>
+				
+				<div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+					<div class="card-body">
+						<div class="" id='table-container-time' style=" overflow: scroll;"></div>
+					</div>
+				</div>
+	        </div>
 		</div>
 		</div>
+		<br><br><br>
 		<!-- /.container -->
 		<!-- Footer -->
 		<div class="footer-bottom bg-dark">

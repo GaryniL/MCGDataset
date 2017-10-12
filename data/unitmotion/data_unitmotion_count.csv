@@ -1,1 +1,217 @@
-﻿User	Group	Language Group	Individual	Task	Media Condition	Trial	Order in Total	Gender	User Spoken Language	0.0_unitmotion_counts (Threshold = 0.0)	0.05_unitmotion_counts (Threshold = 0.05)	0.1_unitmotion_counts (Threshold = 0.1)	0.15_unitmotion_counts (Threshold = 0.15)	0.2_unitmotion_counts (Threshold = 0.2)	0.25_unitmotion_counts (Threshold = 0.25)	0.3_unitmotion_counts (Threshold = 0.3)	0.35_unitmotion_counts (Threshold = 0.35)	0.4_unitmotion_counts (Threshold = 0.4)	0.45_unitmotion_counts (Threshold = 0.45)	0.5_unitmotion_counts (Threshold = 0.5)1A	1	E-L1 vs E-L2	U1	wing	F	1	5	M	Non-Native	1	201	64	30	13	5	2	0	0	0	01B	1	E-L1 vs E-L2	U2	wing	F	1	5	M	Native	1	715	282	72	8	1	1	0	0	0	01A	1	E-L1 vs E-L2	U1	thumb	V	2	5	M	Non-Native	1	208	54	25	12	3	1	0	0	0	01B	1	E-L1 vs E-L2	U2	thumb	V	2	5	M	Native	1	640	279	96	42	18	10	5	2	1	01A	1	E-L1 vs E-L2	U1	eye	A	3	5	M	Non-Native	1	218	34	13	5	1	0	0	0	0	01B	1	E-L1 vs E-L2	U2	eye	A	3	5	M	Native	1	65	10	5	1	1	0	0	0	0	02A	2	E-L1 vs E-L2	U1	thumb	F	1	13	M	Native	1	569	145	44	16	8	4	1	0	0	02B	2	E-L1 vs E-L2	U2	thumb	F	1	13	F	Non-Native	1	499	179	48	14	7	3	1	0	0	02A	2	E-L1 vs E-L2	U1	eye	V	2	13	M	Native	1	637	174	50	19	7	3	2	2	1	12B	2	E-L1 vs E-L2	U2	eye	V	2	13	F	Non-Native	1	544	137	54	17	7	4	3	1	0	02A	2	E-L1 vs E-L2	U1	wing	A	3	13	M	Native	1	171	38	16	8	2	1	0	0	0	02B	2	E-L1 vs E-L2	U2	wing	A	3	13	F	Non-Native	1	225	32	9	4	2	0	0	0	0	03A	3	E-L1 vs E-L2	U1	eye	F	1	8	M	Native	1	478	163	77	43	25	13	5	0	0	03B	3	E-L1 vs E-L2	U2	eye	F	1	8	F	Non-Native	1	411	166	89	46	26	13	6	2	0	03A	3	E-L1 vs E-L2	U1	wing	V	2	8	M	Native	1	572	150	50	23	16	8	5	5	4	33B	3	E-L1 vs E-L2	U2	wing	V	2	8	F	Non-Native	1	342	134	66	29	17	5	3	1	0	03A	3	E-L1 vs E-L2	U1	thumb	A	3	8	M	Native	1	692	211	64	22	8	2	2	0	0	03B	3	E-L1 vs E-L2	U2	thumb	A	3	8	F	Non-Native	1	294	102	37	16	5	1	0	0	0	04A	4	E-L1 vs E-L2	U1	wing	F	1	16	M	Native	1	322	57	14	5	2	1	1	0	0	04B	4	E-L1 vs E-L2	U2	wing	F	1	16	F	Non-Native	1	138	43	21	7	1	0	0	0	0	04A	4	E-L1 vs E-L2	U1	thumb	A	2	16	M	Native	1	326	57	26	14	11	10	9	6	2	04B	4	E-L1 vs E-L2	U2	thumb	A	2	16	F	Non-Native	1	315	75	32	11	2	0	0	0	0	04A	4	E-L1 vs E-L2	U1	eye	V	3	16	M	Native	1	478	119	44	27	16	13	12	9	6	64B	4	E-L1 vs E-L2	U2	eye	V	3	16	F	Non-Native	1	340	83	39	22	14	7	3	2	1	05A	5	E-L1 vs E-L2	U1	eye	F	1	4	F	Non-Native	1	414	103	49	25	14	9	6	2	2	25B	5	E-L1 vs E-L2	U2	eye	F	1	4	F	Native	1	475	202	97	43	14	4	1	0	0	05A	5	E-L1 vs E-L2	U1	wing	A	2	4	F	Non-Native	1	87	17	6	3	2	1	0	0	0	05B	5	E-L1 vs E-L2	U2	wing	A	2	4	F	Native	1	246	63	22	10	6	2	0	0	0	05A	5	E-L1 vs E-L2	U1	thumb	V	3	4	F	Non-Native	1	794	335	157	75	36	15	7	1	1	05B	5	E-L1 vs E-L2	U2	thumb	V	3	4	F	Native	1	500	204	108	52	16	3	1	1	1	16A	6	E-L1 vs E-L2	U1	thumb	F	1	1	F	Non-Native	1	727	221	71	28	17	7	5	2	0	06B	6	E-L1 vs E-L2	U2	thumb	F	1	1	M	Native	1	678	288	141	75	28	8	2	1	0	06A	6	E-L1 vs E-L2	U1	eye	A	2	1	F	Non-Native	1	722	239	111	56	30	17	9	5	3	26B	6	E-L1 vs E-L2	U2	eye	A	2	1	M	Native	1	102	51	32	23	18	13	9	7	4	36A	6	E-L1 vs E-L2	U1	wing	V	3	1	F	Non-Native	1	460	169	106	73	47	24	14	9	5	36B	6	E-L1 vs E-L2	U2	wing	V	3	1	M	Native	1	525	294	177	111	70	41	26	16	10	67A	7	E-L1 vs E-L2	U1	wing	V	1	14	M	Non-Native	1	535	125	28	13	6	3	2	2	0	07B	7	E-L1 vs E-L2	U2	wing	V	1	14	M	Native	1	947	244	94	49	25	15	9	7	4	37A	7	E-L1 vs E-L2	U1	thumb	F	2	14	M	Non-Native	1	501	201	81	31	17	7	2	0	0	07B	7	E-L1 vs E-L2	U2	thumb	F	2	14	M	Native	1	937	228	63	22	9	6	1	1	0	07A	7	E-L1 vs E-L2	U1	eye	A	3	14	M	Non-Native	1	482	212	109	34	4	1	0	0	0	07B	7	E-L1 vs E-L2	U2	eye	A	3	14	M	Native	1	369	77	23	12	4	1	0	0	0	08A	8	E-L1 vs E-L2	U1	thumb	V	1	17	F	Native	1	283	87	38	23	16	10	6	5	1	18B	8	E-L1 vs E-L2	U2	thumb	V	1	17	M	Non-Native	1	569	150	61	21	8	3	1	0	0	08A	8	E-L1 vs E-L2	U1	eye	F	2	17	F	Native	1	501	52	10	1	1	0	0	0	0	08B	8	E-L1 vs E-L2	U2	eye	F	2	17	M	Non-Native	1	539	104	34	14	6	1	0	0	0	08A	8	E-L1 vs E-L2	U1	wing	A	3	17	F	Native	1	422	53	15	4	1	0	0	0	0	08B	8	E-L1 vs E-L2	U2	wing	A	3	17	M	Non-Native	1	769	288	97	8	2	1	0	0	0	09A	9	E-L1 vs E-L2	U1	eye	V	1	3	F	Native	1	478	152	59	26	14	5	2	0	0	09B	9	E-L1 vs E-L2	U2	eye	V	1	3	M	Non-Native	1	330	110	45	21	11	5	3	2	2	09A	9	E-L1 vs E-L2	U1	wing	F	2	3	F	Native	1	406	119	50	22	14	8	4	2	2	19B	9	E-L1 vs E-L2	U2	wing	F	2	3	M	Non-Native	1	344	98	30	13	3	1	0	0	0	09A	9	E-L1 vs E-L2	U1	thumb	A	3	3	F	Native	1	529	74	17	4	4	2	1	0	0	09B	9	E-L1 vs E-L2	U2	thumb	A	3	3	M	Non-Native	1	416	142	37	11	3	1	0	0	0	010A	10	E-L1 vs E-L2	U1	eye	V	1	7	M	Native	1	574	224	137	103	76	55	35	19	14	1010B	10	E-L1 vs E-L2	U2	eye	V	1	7	F	Non-Native	1	424	173	94	42	15	4	0	0	0	010A	10	E-L1 vs E-L2	U1	wing	A	2	7	M	Native	1	384	115	52	27	13	4	1	0	0	010B	10	E-L1 vs E-L2	U2	wing	A	2	7	F	Non-Native	1	318	113	54	28	14	6	2	1	0	010A	10	E-L1 vs E-L2	U1	thumb	F	3	7	M	Native	1	667	235	103	47	19	5	3	2	0	010B	10	E-L1 vs E-L2	U2	thumb	F	3	7	F	Non-Native	1	506	195	88	40	14	5	2	0	0	011A	11	E-L1 vs E-L2	U1	wing	V	1	2	M	Native	1	482	163	83	54	34	16	7	2	1	111B	11	E-L1 vs E-L2	U2	wing	V	1	2	F	Non-Native	1	280	83	36	17	10	2	0	0	0	011A	11	E-L1 vs E-L2	U1	thumb	A	2	2	M	Native	1	675	136	36	11	5	0	0	0	0	011B	11	E-L1 vs E-L2	U2	thumb	A	2	2	F	Non-Native	1	200	50	20	7	2	0	0	0	0	011A	11	E-L1 vs E-L2	U1	eye	F	3	2	M	Native	1	352	97	39	20	13	7	4	2	1	011B	11	E-L1 vs E-L2	U2	eye	F	3	2	F	Non-Native	1	303	82	33	17	8	3	0	0	0	012A	12	E-L1 vs E-L2	U1	thumb	V	1	6	F	Non-Native	1	632	210	104	66	47	33	22	14	6	412B	12	E-L1 vs E-L2	U2	thumb	V	1	6	F	Native	1	356	136	77	40	18	9	4	2	1	112A	12	E-L1 vs E-L2	U1	eye	A	2	6	F	Non-Native	1	353	104	40	19	7	3	1	0	0	012B	12	E-L1 vs E-L2	U2	eye	A	2	6	F	Native	1	372	114	50	26	11	1	0	0	0	012A	12	E-L1 vs E-L2	U1	wing	F	3	6	F	Non-Native	1	621	184	65	19	8	3	1	1	1	012B	12	E-L1 vs E-L2	U2	wing	F	3	6	F	Native	1	440	162	82	45	20	5	1	0	0	013A	13	E-L1 vs E-L2	U1	eye	A	1	9	F	Non-Native	1	549	166	63	22	5	1	0	0	0	013B	13	E-L1 vs E-L2	U2	eye	A	1	9	M	Native	1	511	67	8	1	0	0	0	0	0	013A	13	E-L1 vs E-L2	U1	thumb	F	2	9	F	Non-Native	1	683	216	89	44	20	8	3	0	0	013B	13	E-L1 vs E-L2	U2	thumb	F	2	9	M	Native	1	969	294	108	44	18	7	2	1	0	013A	13	E-L1 vs E-L2	U1	wing	V	3	9	F	Non-Native	1	524	197	93	38	17	5	4	2	2	213B	13	E-L1 vs E-L2	U2	wing	V	3	9	M	Native	1	784	145	25	10	3	2	1	0	0	014A	14	E-L1 vs E-L2	U1	wing	A	1	15	F	Non-Native	1	792	263	109	43	19	9	3	0	0	014B	14	E-L1 vs E-L2	U2	wing	A	1	15	M	Native	1	674	134	44	22	9	2	0	0	0	014A	14	E-L1 vs E-L2	U1	eye	F	2	15	F	Non-Native	1	727	142	55	17	8	3	2	0	0	014B	14	E-L1 vs E-L2	U2	eye	F	2	15	M	Native	1	870	352	146	63	22	3	0	0	0	014A	14	E-L1 vs E-L2	U1	thumb	V	3	15	F	Non-Native	1	916	304	134	73	40	19	7	3	0	014B	14	E-L1 vs E-L2	U2	thumb	V	3	15	M	Native	1	873	244	83	38	17	10	6	2	0	015A	15	E-L1 vs E-L2	U1	thumb	A	1	18	F	Non-Native	1	781	225	88	34	11	4	2	0	0	015B	15	E-L1 vs E-L2	U2	thumb	A	1	18	M	Native	1	442	157	79	37	21	8	4	1	1	015A	15	E-L1 vs E-L2	U1	wing	F	2	18	F	Non-Native	1	469	66	23	13	4	0	0	0	0	015B	15	E-L1 vs E-L2	U2	wing	F	2	18	M	Native	1	826	225	79	36	14	6	3	2	0	015A	15	E-L1 vs E-L2	U1	eye	V	3	18	F	Non-Native	1	666	199	93	45	27	12	6	4	2	215B	15	E-L1 vs E-L2	U2	eye	V	3	18	M	Native	1	812	285	118	53	28	11	4	2	2	116A	16	E-L1 vs E-L2	U1	thumb	A	1	11	M	Non-Native	1	576	189	82	28	8	3	0	0	0	016B	16	E-L1 vs E-L2	U2	thumb	A	1	11	F	Native	1	473	119	41	23	8	4	1	0	0	016A	16	E-L1 vs E-L2	U1	eye	V	2	11	M	Non-Native	1	649	257	150	103	69	51	40	30	27	2216B	16	E-L1 vs E-L2	U2	eye	V	2	11	F	Native	1	637	162	69	44	25	18	14	8	4	116A	16	E-L1 vs E-L2	U1	wing	F	3	11	M	Non-Native	1	482	137	41	20	11	4	3	1	0	016B	16	E-L1 vs E-L2	U2	wing	F	3	11	F	Native	1	708	187	71	27	17	8	6	2	0	017A	17	E-L1 vs E-L2	U1	wing	A	1	12	M	Native	1	756	283	100	14	5	1	0	0	0	017B	17	E-L1 vs E-L2	U2	wing	A	1	12	F	Non-Native	1	376	109	47	19	9	3	2	1	0	017A	17	E-L1 vs E-L2	U1	thumb	V	2	12	M	Native	1	803	320	151	79	42	18	7	1	0	017B	17	E-L1 vs E-L2	U2	thumb	V	2	12	F	Non-Native	1	403	119	58	34	15	5	3	0	0	017A	17	E-L1 vs E-L2	U1	eye	F	3	12	M	Native	1	587	145	59	27	8	3	0	0	0	017B	17	E-L1 vs E-L2	U2	eye	F	3	12	F	Non-Native	1	290	118	55	27	10	1	0	0	0	018A	18	E-L1 vs E-L2	U1	eye	A	1	10	F	Non-Native	1	1116	435	204	100	53	22	5	0	0	018B	18	E-L1 vs E-L2	U2	eye	A	1	10	M	Native	1	445	97	13	3	1	0	0	0	0	018A	18	E-L1 vs E-L2	U1	wing	V	2	10	F	Non-Native	1	821	247	110	53	24	8	5	2	2	118B	18	E-L1 vs E-L2	U2	wing	V	2	10	M	Native	1	570	100	29	8	3	0	0	0	0	018A	18	E-L1 vs E-L2	U1	thumb	F	3	10	F	Non-Native	1	793	248	111	56	27	10	2	0	0	018B	18	E-L1 vs E-L2	U2	thumb	F	3	10	M	Native	1	782	227	79	36	18	6	3	1	0	037A	37	E-L2 vs E-L2	U1	wing	F	1	10	F	Non-Native	1	634	215	96	41	15	5	2	0	0	037B	37	E-L2 vs E-L2	U2	wing	F	1	10	F	Non-Native	1	522	185	80	42	19	11	4	0	0	037A	37	E-L2 vs E-L2	U1	thumb	V	2	10	F	Non-Native	1	711	232	99	47	21	10	5	2	0	037B	37	E-L2 vs E-L2	U2	thumb	V	2	10	F	Non-Native	1	577	132	40	20	11	7	4	2	2	137A	37	E-L2 vs E-L2	U1	eye	A	3	10	F	Non-Native	1	446	169	65	29	12	5	1	0	0	037B	37	E-L2 vs E-L2	U2	eye	A	3	10	F	Non-Native	1	315	57	24	12	8	4	2	0	0	038A	38	E-L2 vs E-L2	U1	thumb	F	1	9	F	Non-Native	1	500	121	36	17	7	3	2	0	0	038B	38	E-L2 vs E-L2	U2	thumb	F	1	9	F	Non-Native	1	683	210	94	36	14	4	2	0	0	038A	38	E-L2 vs E-L2	U1	eye	V	2	9	F	Non-Native	1	351	92	34	22	15	7	3	2	1	038B	38	E-L2 vs E-L2	U2	eye	V	2	9	F	Non-Native	1	918	284	98	49	31	20	15	12	7	038A	38	E-L2 vs E-L2	U1	wing	A	3	9	F	Non-Native	1	574	154	70	32	15	6	2	0	0	038B	38	E-L2 vs E-L2	U2	wing	A	3	9	F	Non-Native	1	872	298	138	53	27	15	7	2	1	039A	39	E-L2 vs E-L2	U1	eye	F	1	14	F	Non-Native	1	659	210	89	35	8	1	0	0	0	039B	39	E-L2 vs E-L2	U2	eye	F	1	14	F	Non-Native	1	582	179	73	31	11	3	0	0	0	039A	39	E-L2 vs E-L2	U1	wing	V	2	14	F	Non-Native	1	997	443	224	141	80	52	34	21	13	639B	39	E-L2 vs E-L2	U2	wing	V	2	14	F	Non-Native	1	1056	331	153	83	41	22	9	4	2	139A	39	E-L2 vs E-L2	U1	thumb	A	3	14	F	Non-Native	1	1059	346	128	42	16	6	2	1	0	039B	39	E-L2 vs E-L2	U2	thumb	A	3	14	F	Non-Native	1	568	172	77	39	16	4	1	1	0	040A	40	E-L2 vs E-L2	U1	wing	F	1	18	M	Non-Native	1	472	83	29	10	7	4	2	1	1	140B	40	E-L2 vs E-L2	U2	wing	F	1	18	F	Non-Native	1	272	80	34	10	2	0	0	0	0	040A	40	E-L2 vs E-L2	U1	thumb	A	2	18	M	Non-Native	1	420	114	50	33	21	8	1	0	0	040B	40	E-L2 vs E-L2	U2	thumb	A	2	18	F	Non-Native	1	405	123	47	23	9	3	1	0	0	040A	40	E-L2 vs E-L2	U1	eye	V	3	18	M	Non-Native	1	555	137	58	30	19	13	4	1	0	040B	40	E-L2 vs E-L2	U2	eye	V	3	18	F	Non-Native	1	312	83	34	15	8	5	2	0	0	041A	41	E-L2 vs E-L2	U1	eye	F	1	5	F	Non-Native	1	426	127	54	22	8	3	2	1	0	041B	41	E-L2 vs E-L2	U2	eye	F	1	5	M	Non-Native	1	139	28	8	2	0	0	0	0	0	041A	41	E-L2 vs E-L2	U1	wing	A	2	5	F	Non-Native	1	372	81	25	13	5	2	1	0	0	041B	41	E-L2 vs E-L2	U2	wing	A	2	5	M	Non-Native	1	465	152	47	15	6	3	1	0	0	041A	41	E-L2 vs E-L2	U1	thumb	V	3	5	F	Non-Native	1	703	292	152	89	51	26	8	3	2	141B	41	E-L2 vs E-L2	U2	thumb	V	3	5	M	Non-Native	1	678	186	72	34	17	5	1	0	0	042A	42	E-L2 vs E-L2	U1	thumb	F	1	13	F	Non-Native	1	460	73	16	3	1	0	0	0	0	042B	42	E-L2 vs E-L2	U2	thumb	F	1	13	M	Non-Native	1	859	341	149	75	28	10	4	1	0	042A	42	E-L2 vs E-L2	U1	eye	A	2	13	F	Non-Native	1	625	131	28	11	4	2	0	0	0	042B	42	E-L2 vs E-L2	U2	eye	A	2	13	M	Non-Native	1	903	430	199	80	39	15	5	1	0	042A	42	E-L2 vs E-L2	U1	wing	V	3	13	F	Non-Native	1	387	166	94	43	7	2	1	1	1	142B	42	E-L2 vs E-L2	U2	wing	V	3	13	M	Non-Native	1	1044	353	109	42	22	10	4	2	1	143A	43	E-L2 vs E-L2	U1	wing	V	1	11	M	Non-Native	1	520	164	72	32	11	3	1	0	0	043B	43	E-L2 vs E-L2	U2	wing	V	1	11	F	Non-Native	1	258	57	30	16	6	4	3	1	1	143A	43	E-L2 vs E-L2	U1	thumb	F	2	11	M	Non-Native	1	167	57	23	13	6	2	1	0	0	043B	43	E-L2 vs E-L2	U2	thumb	F	2	11	F	Non-Native	1	526	153	73	31	16	4	2	0	0	043A	43	E-L2 vs E-L2	U1	eye	A	3	11	M	Non-Native	1	602	125	41	15	8	7	4	0	0	043B	43	E-L2 vs E-L2	U2	eye	A	3	11	F	Non-Native	1	507	149	73	31	14	6	2	0	0	044A	44	E-L2 vs E-L2	U1	thumb	V	1	3	M	Non-Native	1	296	113	71	36	17	10	4	2	1	144B	44	E-L2 vs E-L2	U2	thumb	V	1	3	M	Non-Native	1	492	194	80	36	18	8	5	4	1	044A	44	E-L2 vs E-L2	U1	eye	F	2	3	M	Non-Native	1	561	216	75	40	20	11	7	4	3	044B	44	E-L2 vs E-L2	U2	eye	F	2	3	M	Non-Native	1	648	168	67	30	10	1	0	0	0	044A	44	E-L2 vs E-L2	U1	wing	A	3	3	M	Non-Native	1	611	101	28	17	9	6	3	2	1	044B	44	E-L2 vs E-L2	U2	wing	A	3	3	M	Non-Native	1	679	245	116	55	30	10	2	1	0	045A	45	E-L2 vs E-L2	U1	eye	V	1	1	M	Non-Native	1	1117	407	168	79	36	23	14	6	1	045B	45	E-L2 vs E-L2	U2	eye	V	1	1	M	Non-Native	1	391	121	57	35	23	12	6	2	1	045A	45	E-L2 vs E-L2	U1	wing	F	2	1	M	Non-Native	1	890	336	120	57	25	13	7	3	1	045B	45	E-L2 vs E-L2	U2	wing	F	2	1	M	Non-Native	1	546	164	66	33	22	11	4	1	0	045A	45	E-L2 vs E-L2	U1	thumb	A	3	1	M	Non-Native	1	999	367	173	98	53	25	12	6	1	145B	45	E-L2 vs E-L2	U2	thumb	A	3	1	M	Non-Native	1	433	130	49	22	8	2	1	0	0	046A	46	E-L2 vs E-L2	U1	eye	V	1	17	F	Non-Native	1	638	216	102	51	22	11	3	1	0	046B	46	E-L2 vs E-L2	U2	eye	V	1	17	F	Non-Native	1	1057	439	203	120	70	35	21	13	8	646A	46	E-L2 vs E-L2	U1	wing	A	2	17	F	Non-Native	1	493	98	28	9	3	0	0	0	0	046B	46	E-L2 vs E-L2	U2	wing	A	2	17	F	Non-Native	1	1008	318	129	56	26	7	2	0	0	046A	46	E-L2 vs E-L2	U1	thumb	F	3	17	F	Non-Native	1	665	227	88	45	20	10	3	1	0	046B	46	E-L2 vs E-L2	U2	thumb	F	3	17	F	Non-Native	1	1055	610	243	78	31	8	3	1	1	047A	47	E-L2 vs E-L2	U1	wing	V	1	16	M	Non-Native	1	609	184	70	26	13	6	4	2	2	147B	47	E-L2 vs E-L2	U2	wing	V	1	16	F	Non-Native	1	444	116	48	25	12	4	1	0	0	047A	47	E-L2 vs E-L2	U1	thumb	A	2	16	M	Non-Native	1	500	221	111	41	17	6	2	0	0	047B	47	E-L2 vs E-L2	U2	thumb	A	2	16	F	Non-Native	1	580	187	77	35	17	7	4	3	1	147A	47	E-L2 vs E-L2	U1	eye	F	3	16	M	Non-Native	1	761	155	45	15	9	4	3	0	0	047B	47	E-L2 vs E-L2	U2	eye	F	3	16	F	Non-Native	1	474	198	87	47	26	11	3	1	0	048A	48	E-L2 vs E-L2	U1	thumb	V	1	15	F	Non-Native	1	626	228	117	66	33	11	6	3	0	048B	48	E-L2 vs E-L2	U2	thumb	V	1	15	F	Non-Native	1	607	224	104	57	34	19	13	9	8	548A	48	E-L2 vs E-L2	U1	eye	A	2	15	F	Non-Native	1	425	150	77	40	21	10	5	1	0	048B	48	E-L2 vs E-L2	U2	eye	A	2	15	F	Non-Native	1	218	72	40	17	7	4	1	0	0	048A	48	E-L2 vs E-L2	U1	wing	F	3	15	F	Non-Native	1	741	268	121	71	33	18	7	1	0	048B	48	E-L2 vs E-L2	U2	wing	F	3	15	F	Non-Native	1	296	121	50	16	7	3	1	0	0	049A	49	E-L2 vs E-L2	U1	eye	A	1	4	M	Non-Native	1	335	80	34	22	13	4	1	0	0	049B	49	E-L2 vs E-L2	U2	eye	A	1	4	M	Non-Native	1	502	248	144	42	5	1	0	0	0	049A	49	E-L2 vs E-L2	U1	thumb	F	2	4	M	Non-Native	1	419	127	59	26	10	3	1	0	0	049B	49	E-L2 vs E-L2	U2	thumb	F	2	4	M	Non-Native	1	513	172	81	35	18	8	3	0	0	049A	49	E-L2 vs E-L2	U1	wing	V	3	4	M	Non-Native	1	446	147	88	59	35	25	16	12	7	449B	49	E-L2 vs E-L2	U2	wing	V	3	4	M	Non-Native	1	364	115	35	19	10	6	5	5	5	450A	50	E-L2 vs E-L2	U1	wing	A	1	12	F	Non-Native	1	653	191	74	35	20	14	7	2	1	050B	50	E-L2 vs E-L2	U2	wing	A	1	12	F	Non-Native	1	233	80	36	19	8	2	0	0	0	050A	50	E-L2 vs E-L2	U1	eye	F	2	12	F	Non-Native	1	794	293	102	47	23	8	4	2	1	050B	50	E-L2 vs E-L2	U2	eye	F	2	12	F	Non-Native	1	268	102	51	19	9	5	1	0	0	050A	50	E-L2 vs E-L2	U1	thumb	V	3	12	F	Non-Native	1	1022	425	224	147	102	69	50	30	19	950B	50	E-L2 vs E-L2	U2	thumb	V	3	12	F	Non-Native	1	994	337	142	52	25	9	3	1	0	051A	51	E-L2 vs E-L2	U1	thumb	A	1	7	F	Non-Native	1	632	192	85	42	20	8	1	0	0	051B	51	E-L2 vs E-L2	U2	thumb	A	1	7	F	Non-Native	1	601	177	66	35	16	10	5	1	0	051A	51	E-L2 vs E-L2	U1	wing	F	2	7	F	Non-Native	1	640	184	78	31	18	10	3	2	1	051B	51	E-L2 vs E-L2	U2	wing	F	2	7	F	Non-Native	1	703	199	67	29	13	9	4	2	0	051A	51	E-L2 vs E-L2	U1	eye	V	3	7	F	Non-Native	1	582	149	57	25	15	9	3	2	0	051B	51	E-L2 vs E-L2	U2	eye	V	3	7	F	Non-Native	1	693	248	140	80	48	29	18	11	8	652A	52	E-L2 vs E-L2	U1	thumb	A	1	6	M	Non-Native	1	480	95	30	4	1	0	0	0	0	052B	52	E-L2 vs E-L2	U2	thumb	A	1	6	M	Non-Native	1	407	137	56	21	7	2	2	0	0	052A	52	E-L2 vs E-L2	U1	eye	V	2	6	M	Non-Native	1	394	140	85	49	27	17	10	8	4	152B	52	E-L2 vs E-L2	U2	eye	V	2	6	M	Non-Native	1	467	159	70	27	14	7	4	2	1	152A	52	E-L2 vs E-L2	U1	wing	F	3	6	M	Non-Native	1	405	113	49	23	12	7	3	0	0	052B	52	E-L2 vs E-L2	U2	wing	F	3	6	M	Non-Native	1	512	175	73	28	15	6	3	1	0	053A	53	E-L2 vs E-L2	U1	wing	A	1	2	M	Non-Native	1	592	195	64	24	11	5	1	0	0	053B	53	E-L2 vs E-L2	U2	wing	A	1	2	M	Non-Native	1	108	50	28	15	7	2	0	0	0	053A	53	E-L2 vs E-L2	U1	thumb	V	2	2	M	Non-Native	1	445	111	46	29	15	8	1	1	0	053B	53	E-L2 vs E-L2	U2	thumb	V	2	2	M	Non-Native	1	470	138	50	27	14	6	3	0	0	053A	53	E-L2 vs E-L2	U1	eye	F	3	2	M	Non-Native	1	574	246	70	12	1	0	0	0	0	053B	53	E-L2 vs E-L2	U2	eye	F	3	2	M	Non-Native	1	691	321	148	68	33	16	6	2	2	154A	54	E-L2 vs E-L2	U1	eye	A	1	8	F	Non-Native	1	211	35	14	9	2	0	0	0	0	054B	54	E-L2 vs E-L2	U2	eye	A	1	8	F	Non-Native	1	456	166	82	55	27	10	2	0	0	054A	54	E-L2 vs E-L2	U1	wing	V	2	8	F	Non-Native	1	479	193	97	54	28	10	3	0	0	054B	54	E-L2 vs E-L2	U2	wing	V	2	8	F	Non-Native	1	716	207	78	39	9	1	0	0	0	054A	54	E-L2 vs E-L2	U1	thumb	F	3	8	F	Non-Native	1	508	168	84	49	17	2	0	0	0	054B	54	E-L2 vs E-L2	U2	thumb	F	3	8	F	Non-Native	1	644	197	94	44	18	5	1	0	0	0
+User,Group,Language Group,Individual,Task,Media Condition,Trial,Order in Total,Gender,User Spoken Language,0.0_unitmotion_counts (Threshold = 0.0),0.05_unitmotion_counts (Threshold = 0.05),0.1_unitmotion_counts (Threshold = 0.1),0.15_unitmotion_counts (Threshold = 0.15),0.2_unitmotion_counts (Threshold = 0.2),0.25_unitmotion_counts (Threshold = 0.25),0.3_unitmotion_counts (Threshold = 0.3),0.35_unitmotion_counts (Threshold = 0.35),0.4_unitmotion_counts (Threshold = 0.4),0.45_unitmotion_counts (Threshold = 0.45),0.5_unitmotion_counts (Threshold = 0.5)
+1A,1,E-L1 vs E-L2,U1,wing,F,1,5,M,Non-Native,1,201,64,30,13,5,2,0,0,0,0
+1B,1,E-L1 vs E-L2,U2,wing,F,1,5,M,Native,1,715,282,72,8,1,1,0,0,0,0
+1A,1,E-L1 vs E-L2,U1,thumb,V,2,5,M,Non-Native,1,208,54,25,12,3,1,0,0,0,0
+1B,1,E-L1 vs E-L2,U2,thumb,V,2,5,M,Native,1,640,279,96,42,18,10,5,2,1,0
+1A,1,E-L1 vs E-L2,U1,eye,A,3,5,M,Non-Native,1,218,34,13,5,1,0,0,0,0,0
+1B,1,E-L1 vs E-L2,U2,eye,A,3,5,M,Native,1,65,10,5,1,1,0,0,0,0,0
+2A,2,E-L1 vs E-L2,U1,thumb,F,1,13,M,Native,1,569,145,44,16,8,4,1,0,0,0
+2B,2,E-L1 vs E-L2,U2,thumb,F,1,13,F,Non-Native,1,499,179,48,14,7,3,1,0,0,0
+2A,2,E-L1 vs E-L2,U1,eye,V,2,13,M,Native,1,637,174,50,19,7,3,2,2,1,1
+2B,2,E-L1 vs E-L2,U2,eye,V,2,13,F,Non-Native,1,544,137,54,17,7,4,3,1,0,0
+2A,2,E-L1 vs E-L2,U1,wing,A,3,13,M,Native,1,171,38,16,8,2,1,0,0,0,0
+2B,2,E-L1 vs E-L2,U2,wing,A,3,13,F,Non-Native,1,225,32,9,4,2,0,0,0,0,0
+3A,3,E-L1 vs E-L2,U1,eye,F,1,8,M,Native,1,478,163,77,43,25,13,5,0,0,0
+3B,3,E-L1 vs E-L2,U2,eye,F,1,8,F,Non-Native,1,411,166,89,46,26,13,6,2,0,0
+3A,3,E-L1 vs E-L2,U1,wing,V,2,8,M,Native,1,572,150,50,23,16,8,5,5,4,3
+3B,3,E-L1 vs E-L2,U2,wing,V,2,8,F,Non-Native,1,342,134,66,29,17,5,3,1,0,0
+3A,3,E-L1 vs E-L2,U1,thumb,A,3,8,M,Native,1,692,211,64,22,8,2,2,0,0,0
+3B,3,E-L1 vs E-L2,U2,thumb,A,3,8,F,Non-Native,1,294,102,37,16,5,1,0,0,0,0
+4A,4,E-L1 vs E-L2,U1,wing,F,1,16,M,Native,1,322,57,14,5,2,1,1,0,0,0
+4B,4,E-L1 vs E-L2,U2,wing,F,1,16,F,Non-Native,1,138,43,21,7,1,0,0,0,0,0
+4A,4,E-L1 vs E-L2,U1,thumb,A,2,16,M,Native,1,326,57,26,14,11,10,9,6,2,0
+4B,4,E-L1 vs E-L2,U2,thumb,A,2,16,F,Non-Native,1,315,75,32,11,2,0,0,0,0,0
+4A,4,E-L1 vs E-L2,U1,eye,V,3,16,M,Native,1,478,119,44,27,16,13,12,9,6,6
+4B,4,E-L1 vs E-L2,U2,eye,V,3,16,F,Non-Native,1,340,83,39,22,14,7,3,2,1,0
+5A,5,E-L1 vs E-L2,U1,eye,F,1,4,F,Non-Native,1,414,103,49,25,14,9,6,2,2,2
+5B,5,E-L1 vs E-L2,U2,eye,F,1,4,F,Native,1,475,202,97,43,14,4,1,0,0,0
+5A,5,E-L1 vs E-L2,U1,wing,A,2,4,F,Non-Native,1,87,17,6,3,2,1,0,0,0,0
+5B,5,E-L1 vs E-L2,U2,wing,A,2,4,F,Native,1,246,63,22,10,6,2,0,0,0,0
+5A,5,E-L1 vs E-L2,U1,thumb,V,3,4,F,Non-Native,1,794,335,157,75,36,15,7,1,1,0
+5B,5,E-L1 vs E-L2,U2,thumb,V,3,4,F,Native,1,500,204,108,52,16,3,1,1,1,1
+6A,6,E-L1 vs E-L2,U1,thumb,F,1,1,F,Non-Native,1,727,221,71,28,17,7,5,2,0,0
+6B,6,E-L1 vs E-L2,U2,thumb,F,1,1,M,Native,1,678,288,141,75,28,8,2,1,0,0
+6A,6,E-L1 vs E-L2,U1,eye,A,2,1,F,Non-Native,1,722,239,111,56,30,17,9,5,3,2
+6B,6,E-L1 vs E-L2,U2,eye,A,2,1,M,Native,1,102,51,32,23,18,13,9,7,4,3
+6A,6,E-L1 vs E-L2,U1,wing,V,3,1,F,Non-Native,1,460,169,106,73,47,24,14,9,5,3
+6B,6,E-L1 vs E-L2,U2,wing,V,3,1,M,Native,1,525,294,177,111,70,41,26,16,10,6
+7A,7,E-L1 vs E-L2,U1,wing,V,1,14,M,Non-Native,1,535,125,28,13,6,3,2,2,0,0
+7B,7,E-L1 vs E-L2,U2,wing,V,1,14,M,Native,1,947,244,94,49,25,15,9,7,4,3
+7A,7,E-L1 vs E-L2,U1,thumb,F,2,14,M,Non-Native,1,501,201,81,31,17,7,2,0,0,0
+7B,7,E-L1 vs E-L2,U2,thumb,F,2,14,M,Native,1,937,228,63,22,9,6,1,1,0,0
+7A,7,E-L1 vs E-L2,U1,eye,A,3,14,M,Non-Native,1,482,212,109,34,4,1,0,0,0,0
+7B,7,E-L1 vs E-L2,U2,eye,A,3,14,M,Native,1,369,77,23,12,4,1,0,0,0,0
+8A,8,E-L1 vs E-L2,U1,thumb,V,1,17,F,Native,1,283,87,38,23,16,10,6,5,1,1
+8B,8,E-L1 vs E-L2,U2,thumb,V,1,17,M,Non-Native,1,569,150,61,21,8,3,1,0,0,0
+8A,8,E-L1 vs E-L2,U1,eye,F,2,17,F,Native,1,501,52,10,1,1,0,0,0,0,0
+8B,8,E-L1 vs E-L2,U2,eye,F,2,17,M,Non-Native,1,539,104,34,14,6,1,0,0,0,0
+8A,8,E-L1 vs E-L2,U1,wing,A,3,17,F,Native,1,422,53,15,4,1,0,0,0,0,0
+8B,8,E-L1 vs E-L2,U2,wing,A,3,17,M,Non-Native,1,769,288,97,8,2,1,0,0,0,0
+9A,9,E-L1 vs E-L2,U1,eye,V,1,3,F,Native,1,478,152,59,26,14,5,2,0,0,0
+9B,9,E-L1 vs E-L2,U2,eye,V,1,3,M,Non-Native,1,330,110,45,21,11,5,3,2,2,0
+9A,9,E-L1 vs E-L2,U1,wing,F,2,3,F,Native,1,406,119,50,22,14,8,4,2,2,1
+9B,9,E-L1 vs E-L2,U2,wing,F,2,3,M,Non-Native,1,344,98,30,13,3,1,0,0,0,0
+9A,9,E-L1 vs E-L2,U1,thumb,A,3,3,F,Native,1,529,74,17,4,4,2,1,0,0,0
+9B,9,E-L1 vs E-L2,U2,thumb,A,3,3,M,Non-Native,1,416,142,37,11,3,1,0,0,0,0
+10A,10,E-L1 vs E-L2,U1,eye,V,1,7,M,Native,1,574,224,137,103,76,55,35,19,14,10
+10B,10,E-L1 vs E-L2,U2,eye,V,1,7,F,Non-Native,1,424,173,94,42,15,4,0,0,0,0
+10A,10,E-L1 vs E-L2,U1,wing,A,2,7,M,Native,1,384,115,52,27,13,4,1,0,0,0
+10B,10,E-L1 vs E-L2,U2,wing,A,2,7,F,Non-Native,1,318,113,54,28,14,6,2,1,0,0
+10A,10,E-L1 vs E-L2,U1,thumb,F,3,7,M,Native,1,667,235,103,47,19,5,3,2,0,0
+10B,10,E-L1 vs E-L2,U2,thumb,F,3,7,F,Non-Native,1,506,195,88,40,14,5,2,0,0,0
+11A,11,E-L1 vs E-L2,U1,wing,V,1,2,M,Native,1,482,163,83,54,34,16,7,2,1,1
+11B,11,E-L1 vs E-L2,U2,wing,V,1,2,F,Non-Native,1,280,83,36,17,10,2,0,0,0,0
+11A,11,E-L1 vs E-L2,U1,thumb,A,2,2,M,Native,1,675,136,36,11,5,0,0,0,0,0
+11B,11,E-L1 vs E-L2,U2,thumb,A,2,2,F,Non-Native,1,200,50,20,7,2,0,0,0,0,0
+11A,11,E-L1 vs E-L2,U1,eye,F,3,2,M,Native,1,352,97,39,20,13,7,4,2,1,0
+11B,11,E-L1 vs E-L2,U2,eye,F,3,2,F,Non-Native,1,303,82,33,17,8,3,0,0,0,0
+12A,12,E-L1 vs E-L2,U1,thumb,V,1,6,F,Non-Native,1,632,210,104,66,47,33,22,14,6,4
+12B,12,E-L1 vs E-L2,U2,thumb,V,1,6,F,Native,1,356,136,77,40,18,9,4,2,1,1
+12A,12,E-L1 vs E-L2,U1,eye,A,2,6,F,Non-Native,1,353,104,40,19,7,3,1,0,0,0
+12B,12,E-L1 vs E-L2,U2,eye,A,2,6,F,Native,1,372,114,50,26,11,1,0,0,0,0
+12A,12,E-L1 vs E-L2,U1,wing,F,3,6,F,Non-Native,1,621,184,65,19,8,3,1,1,1,0
+12B,12,E-L1 vs E-L2,U2,wing,F,3,6,F,Native,1,440,162,82,45,20,5,1,0,0,0
+13A,13,E-L1 vs E-L2,U1,eye,A,1,9,F,Non-Native,1,549,166,63,22,5,1,0,0,0,0
+13B,13,E-L1 vs E-L2,U2,eye,A,1,9,M,Native,1,511,67,8,1,0,0,0,0,0,0
+13A,13,E-L1 vs E-L2,U1,thumb,F,2,9,F,Non-Native,1,683,216,89,44,20,8,3,0,0,0
+13B,13,E-L1 vs E-L2,U2,thumb,F,2,9,M,Native,1,969,294,108,44,18,7,2,1,0,0
+13A,13,E-L1 vs E-L2,U1,wing,V,3,9,F,Non-Native,1,524,197,93,38,17,5,4,2,2,2
+13B,13,E-L1 vs E-L2,U2,wing,V,3,9,M,Native,1,784,145,25,10,3,2,1,0,0,0
+14A,14,E-L1 vs E-L2,U1,wing,A,1,15,F,Non-Native,1,792,263,109,43,19,9,3,0,0,0
+14B,14,E-L1 vs E-L2,U2,wing,A,1,15,M,Native,1,674,134,44,22,9,2,0,0,0,0
+14A,14,E-L1 vs E-L2,U1,eye,F,2,15,F,Non-Native,1,727,142,55,17,8,3,2,0,0,0
+14B,14,E-L1 vs E-L2,U2,eye,F,2,15,M,Native,1,870,352,146,63,22,3,0,0,0,0
+14A,14,E-L1 vs E-L2,U1,thumb,V,3,15,F,Non-Native,1,916,304,134,73,40,19,7,3,0,0
+14B,14,E-L1 vs E-L2,U2,thumb,V,3,15,M,Native,1,873,244,83,38,17,10,6,2,0,0
+15A,15,E-L1 vs E-L2,U1,thumb,A,1,18,F,Non-Native,1,781,225,88,34,11,4,2,0,0,0
+15B,15,E-L1 vs E-L2,U2,thumb,A,1,18,M,Native,1,442,157,79,37,21,8,4,1,1,0
+15A,15,E-L1 vs E-L2,U1,wing,F,2,18,F,Non-Native,1,469,66,23,13,4,0,0,0,0,0
+15B,15,E-L1 vs E-L2,U2,wing,F,2,18,M,Native,1,826,225,79,36,14,6,3,2,0,0
+15A,15,E-L1 vs E-L2,U1,eye,V,3,18,F,Non-Native,1,666,199,93,45,27,12,6,4,2,2
+15B,15,E-L1 vs E-L2,U2,eye,V,3,18,M,Native,1,812,285,118,53,28,11,4,2,2,1
+16A,16,E-L1 vs E-L2,U1,thumb,A,1,11,M,Non-Native,1,576,189,82,28,8,3,0,0,0,0
+16B,16,E-L1 vs E-L2,U2,thumb,A,1,11,F,Native,1,473,119,41,23,8,4,1,0,0,0
+16A,16,E-L1 vs E-L2,U1,eye,V,2,11,M,Non-Native,1,649,257,150,103,69,51,40,30,27,22
+16B,16,E-L1 vs E-L2,U2,eye,V,2,11,F,Native,1,637,162,69,44,25,18,14,8,4,1
+16A,16,E-L1 vs E-L2,U1,wing,F,3,11,M,Non-Native,1,482,137,41,20,11,4,3,1,0,0
+16B,16,E-L1 vs E-L2,U2,wing,F,3,11,F,Native,1,708,187,71,27,17,8,6,2,0,0
+17A,17,E-L1 vs E-L2,U1,wing,A,1,12,M,Native,1,756,283,100,14,5,1,0,0,0,0
+17B,17,E-L1 vs E-L2,U2,wing,A,1,12,F,Non-Native,1,376,109,47,19,9,3,2,1,0,0
+17A,17,E-L1 vs E-L2,U1,thumb,V,2,12,M,Native,1,803,320,151,79,42,18,7,1,0,0
+17B,17,E-L1 vs E-L2,U2,thumb,V,2,12,F,Non-Native,1,403,119,58,34,15,5,3,0,0,0
+17A,17,E-L1 vs E-L2,U1,eye,F,3,12,M,Native,1,587,145,59,27,8,3,0,0,0,0
+17B,17,E-L1 vs E-L2,U2,eye,F,3,12,F,Non-Native,1,290,118,55,27,10,1,0,0,0,0
+18A,18,E-L1 vs E-L2,U1,eye,A,1,10,F,Non-Native,1,1116,435,204,100,53,22,5,0,0,0
+18B,18,E-L1 vs E-L2,U2,eye,A,1,10,M,Native,1,445,97,13,3,1,0,0,0,0,0
+18A,18,E-L1 vs E-L2,U1,wing,V,2,10,F,Non-Native,1,821,247,110,53,24,8,5,2,2,1
+18B,18,E-L1 vs E-L2,U2,wing,V,2,10,M,Native,1,570,100,29,8,3,0,0,0,0,0
+18A,18,E-L1 vs E-L2,U1,thumb,F,3,10,F,Non-Native,1,793,248,111,56,27,10,2,0,0,0
+18B,18,E-L1 vs E-L2,U2,thumb,F,3,10,M,Native,1,782,227,79,36,18,6,3,1,0,0
+37A,37,E-L2 vs E-L2,U1,wing,F,1,10,F,Non-Native,1,634,215,96,41,15,5,2,0,0,0
+37B,37,E-L2 vs E-L2,U2,wing,F,1,10,F,Non-Native,1,522,185,80,42,19,11,4,0,0,0
+37A,37,E-L2 vs E-L2,U1,thumb,V,2,10,F,Non-Native,1,711,232,99,47,21,10,5,2,0,0
+37B,37,E-L2 vs E-L2,U2,thumb,V,2,10,F,Non-Native,1,577,132,40,20,11,7,4,2,2,1
+37A,37,E-L2 vs E-L2,U1,eye,A,3,10,F,Non-Native,1,446,169,65,29,12,5,1,0,0,0
+37B,37,E-L2 vs E-L2,U2,eye,A,3,10,F,Non-Native,1,315,57,24,12,8,4,2,0,0,0
+38A,38,E-L2 vs E-L2,U1,thumb,F,1,9,F,Non-Native,1,500,121,36,17,7,3,2,0,0,0
+38B,38,E-L2 vs E-L2,U2,thumb,F,1,9,F,Non-Native,1,683,210,94,36,14,4,2,0,0,0
+38A,38,E-L2 vs E-L2,U1,eye,V,2,9,F,Non-Native,1,351,92,34,22,15,7,3,2,1,0
+38B,38,E-L2 vs E-L2,U2,eye,V,2,9,F,Non-Native,1,918,284,98,49,31,20,15,12,7,0
+38A,38,E-L2 vs E-L2,U1,wing,A,3,9,F,Non-Native,1,574,154,70,32,15,6,2,0,0,0
+38B,38,E-L2 vs E-L2,U2,wing,A,3,9,F,Non-Native,1,872,298,138,53,27,15,7,2,1,0
+39A,39,E-L2 vs E-L2,U1,eye,F,1,14,F,Non-Native,1,659,210,89,35,8,1,0,0,0,0
+39B,39,E-L2 vs E-L2,U2,eye,F,1,14,F,Non-Native,1,582,179,73,31,11,3,0,0,0,0
+39A,39,E-L2 vs E-L2,U1,wing,V,2,14,F,Non-Native,1,997,443,224,141,80,52,34,21,13,6
+39B,39,E-L2 vs E-L2,U2,wing,V,2,14,F,Non-Native,1,1056,331,153,83,41,22,9,4,2,1
+39A,39,E-L2 vs E-L2,U1,thumb,A,3,14,F,Non-Native,1,1059,346,128,42,16,6,2,1,0,0
+39B,39,E-L2 vs E-L2,U2,thumb,A,3,14,F,Non-Native,1,568,172,77,39,16,4,1,1,0,0
+40A,40,E-L2 vs E-L2,U1,wing,F,1,18,M,Non-Native,1,472,83,29,10,7,4,2,1,1,1
+40B,40,E-L2 vs E-L2,U2,wing,F,1,18,F,Non-Native,1,272,80,34,10,2,0,0,0,0,0
+40A,40,E-L2 vs E-L2,U1,thumb,A,2,18,M,Non-Native,1,420,114,50,33,21,8,1,0,0,0
+40B,40,E-L2 vs E-L2,U2,thumb,A,2,18,F,Non-Native,1,405,123,47,23,9,3,1,0,0,0
+40A,40,E-L2 vs E-L2,U1,eye,V,3,18,M,Non-Native,1,555,137,58,30,19,13,4,1,0,0
+40B,40,E-L2 vs E-L2,U2,eye,V,3,18,F,Non-Native,1,312,83,34,15,8,5,2,0,0,0
+41A,41,E-L2 vs E-L2,U1,eye,F,1,5,F,Non-Native,1,426,127,54,22,8,3,2,1,0,0
+41B,41,E-L2 vs E-L2,U2,eye,F,1,5,M,Non-Native,1,139,28,8,2,0,0,0,0,0,0
+41A,41,E-L2 vs E-L2,U1,wing,A,2,5,F,Non-Native,1,372,81,25,13,5,2,1,0,0,0
+41B,41,E-L2 vs E-L2,U2,wing,A,2,5,M,Non-Native,1,465,152,47,15,6,3,1,0,0,0
+41A,41,E-L2 vs E-L2,U1,thumb,V,3,5,F,Non-Native,1,703,292,152,89,51,26,8,3,2,1
+41B,41,E-L2 vs E-L2,U2,thumb,V,3,5,M,Non-Native,1,678,186,72,34,17,5,1,0,0,0
+42A,42,E-L2 vs E-L2,U1,thumb,F,1,13,F,Non-Native,1,460,73,16,3,1,0,0,0,0,0
+42B,42,E-L2 vs E-L2,U2,thumb,F,1,13,M,Non-Native,1,859,341,149,75,28,10,4,1,0,0
+42A,42,E-L2 vs E-L2,U1,eye,A,2,13,F,Non-Native,1,625,131,28,11,4,2,0,0,0,0
+42B,42,E-L2 vs E-L2,U2,eye,A,2,13,M,Non-Native,1,903,430,199,80,39,15,5,1,0,0
+42A,42,E-L2 vs E-L2,U1,wing,V,3,13,F,Non-Native,1,387,166,94,43,7,2,1,1,1,1
+42B,42,E-L2 vs E-L2,U2,wing,V,3,13,M,Non-Native,1,1044,353,109,42,22,10,4,2,1,1
+43A,43,E-L2 vs E-L2,U1,wing,V,1,11,M,Non-Native,1,520,164,72,32,11,3,1,0,0,0
+43B,43,E-L2 vs E-L2,U2,wing,V,1,11,F,Non-Native,1,258,57,30,16,6,4,3,1,1,1
+43A,43,E-L2 vs E-L2,U1,thumb,F,2,11,M,Non-Native,1,167,57,23,13,6,2,1,0,0,0
+43B,43,E-L2 vs E-L2,U2,thumb,F,2,11,F,Non-Native,1,526,153,73,31,16,4,2,0,0,0
+43A,43,E-L2 vs E-L2,U1,eye,A,3,11,M,Non-Native,1,602,125,41,15,8,7,4,0,0,0
+43B,43,E-L2 vs E-L2,U2,eye,A,3,11,F,Non-Native,1,507,149,73,31,14,6,2,0,0,0
+44A,44,E-L2 vs E-L2,U1,thumb,V,1,3,M,Non-Native,1,296,113,71,36,17,10,4,2,1,1
+44B,44,E-L2 vs E-L2,U2,thumb,V,1,3,M,Non-Native,1,492,194,80,36,18,8,5,4,1,0
+44A,44,E-L2 vs E-L2,U1,eye,F,2,3,M,Non-Native,1,561,216,75,40,20,11,7,4,3,0
+44B,44,E-L2 vs E-L2,U2,eye,F,2,3,M,Non-Native,1,648,168,67,30,10,1,0,0,0,0
+44A,44,E-L2 vs E-L2,U1,wing,A,3,3,M,Non-Native,1,611,101,28,17,9,6,3,2,1,0
+44B,44,E-L2 vs E-L2,U2,wing,A,3,3,M,Non-Native,1,679,245,116,55,30,10,2,1,0,0
+45A,45,E-L2 vs E-L2,U1,eye,V,1,1,M,Non-Native,1,1117,407,168,79,36,23,14,6,1,0
+45B,45,E-L2 vs E-L2,U2,eye,V,1,1,M,Non-Native,1,391,121,57,35,23,12,6,2,1,0
+45A,45,E-L2 vs E-L2,U1,wing,F,2,1,M,Non-Native,1,890,336,120,57,25,13,7,3,1,0
+45B,45,E-L2 vs E-L2,U2,wing,F,2,1,M,Non-Native,1,546,164,66,33,22,11,4,1,0,0
+45A,45,E-L2 vs E-L2,U1,thumb,A,3,1,M,Non-Native,1,999,367,173,98,53,25,12,6,1,1
+45B,45,E-L2 vs E-L2,U2,thumb,A,3,1,M,Non-Native,1,433,130,49,22,8,2,1,0,0,0
+46A,46,E-L2 vs E-L2,U1,eye,V,1,17,F,Non-Native,1,638,216,102,51,22,11,3,1,0,0
+46B,46,E-L2 vs E-L2,U2,eye,V,1,17,F,Non-Native,1,1057,439,203,120,70,35,21,13,8,6
+46A,46,E-L2 vs E-L2,U1,wing,A,2,17,F,Non-Native,1,493,98,28,9,3,0,0,0,0,0
+46B,46,E-L2 vs E-L2,U2,wing,A,2,17,F,Non-Native,1,1008,318,129,56,26,7,2,0,0,0
+46A,46,E-L2 vs E-L2,U1,thumb,F,3,17,F,Non-Native,1,665,227,88,45,20,10,3,1,0,0
+46B,46,E-L2 vs E-L2,U2,thumb,F,3,17,F,Non-Native,1,1055,610,243,78,31,8,3,1,1,0
+47A,47,E-L2 vs E-L2,U1,wing,V,1,16,M,Non-Native,1,609,184,70,26,13,6,4,2,2,1
+47B,47,E-L2 vs E-L2,U2,wing,V,1,16,F,Non-Native,1,444,116,48,25,12,4,1,0,0,0
+47A,47,E-L2 vs E-L2,U1,thumb,A,2,16,M,Non-Native,1,500,221,111,41,17,6,2,0,0,0
+47B,47,E-L2 vs E-L2,U2,thumb,A,2,16,F,Non-Native,1,580,187,77,35,17,7,4,3,1,1
+47A,47,E-L2 vs E-L2,U1,eye,F,3,16,M,Non-Native,1,761,155,45,15,9,4,3,0,0,0
+47B,47,E-L2 vs E-L2,U2,eye,F,3,16,F,Non-Native,1,474,198,87,47,26,11,3,1,0,0
+48A,48,E-L2 vs E-L2,U1,thumb,V,1,15,F,Non-Native,1,626,228,117,66,33,11,6,3,0,0
+48B,48,E-L2 vs E-L2,U2,thumb,V,1,15,F,Non-Native,1,607,224,104,57,34,19,13,9,8,5
+48A,48,E-L2 vs E-L2,U1,eye,A,2,15,F,Non-Native,1,425,150,77,40,21,10,5,1,0,0
+48B,48,E-L2 vs E-L2,U2,eye,A,2,15,F,Non-Native,1,218,72,40,17,7,4,1,0,0,0
+48A,48,E-L2 vs E-L2,U1,wing,F,3,15,F,Non-Native,1,741,268,121,71,33,18,7,1,0,0
+48B,48,E-L2 vs E-L2,U2,wing,F,3,15,F,Non-Native,1,296,121,50,16,7,3,1,0,0,0
+49A,49,E-L2 vs E-L2,U1,eye,A,1,4,M,Non-Native,1,335,80,34,22,13,4,1,0,0,0
+49B,49,E-L2 vs E-L2,U2,eye,A,1,4,M,Non-Native,1,502,248,144,42,5,1,0,0,0,0
+49A,49,E-L2 vs E-L2,U1,thumb,F,2,4,M,Non-Native,1,419,127,59,26,10,3,1,0,0,0
+49B,49,E-L2 vs E-L2,U2,thumb,F,2,4,M,Non-Native,1,513,172,81,35,18,8,3,0,0,0
+49A,49,E-L2 vs E-L2,U1,wing,V,3,4,M,Non-Native,1,446,147,88,59,35,25,16,12,7,4
+49B,49,E-L2 vs E-L2,U2,wing,V,3,4,M,Non-Native,1,364,115,35,19,10,6,5,5,5,4
+50A,50,E-L2 vs E-L2,U1,wing,A,1,12,F,Non-Native,1,653,191,74,35,20,14,7,2,1,0
+50B,50,E-L2 vs E-L2,U2,wing,A,1,12,F,Non-Native,1,233,80,36,19,8,2,0,0,0,0
+50A,50,E-L2 vs E-L2,U1,eye,F,2,12,F,Non-Native,1,794,293,102,47,23,8,4,2,1,0
+50B,50,E-L2 vs E-L2,U2,eye,F,2,12,F,Non-Native,1,268,102,51,19,9,5,1,0,0,0
+50A,50,E-L2 vs E-L2,U1,thumb,V,3,12,F,Non-Native,1,1022,425,224,147,102,69,50,30,19,9
+50B,50,E-L2 vs E-L2,U2,thumb,V,3,12,F,Non-Native,1,994,337,142,52,25,9,3,1,0,0
+51A,51,E-L2 vs E-L2,U1,thumb,A,1,7,F,Non-Native,1,632,192,85,42,20,8,1,0,0,0
+51B,51,E-L2 vs E-L2,U2,thumb,A,1,7,F,Non-Native,1,601,177,66,35,16,10,5,1,0,0
+51A,51,E-L2 vs E-L2,U1,wing,F,2,7,F,Non-Native,1,640,184,78,31,18,10,3,2,1,0
+51B,51,E-L2 vs E-L2,U2,wing,F,2,7,F,Non-Native,1,703,199,67,29,13,9,4,2,0,0
+51A,51,E-L2 vs E-L2,U1,eye,V,3,7,F,Non-Native,1,582,149,57,25,15,9,3,2,0,0
+51B,51,E-L2 vs E-L2,U2,eye,V,3,7,F,Non-Native,1,693,248,140,80,48,29,18,11,8,6
+52A,52,E-L2 vs E-L2,U1,thumb,A,1,6,M,Non-Native,1,480,95,30,4,1,0,0,0,0,0
+52B,52,E-L2 vs E-L2,U2,thumb,A,1,6,M,Non-Native,1,407,137,56,21,7,2,2,0,0,0
+52A,52,E-L2 vs E-L2,U1,eye,V,2,6,M,Non-Native,1,394,140,85,49,27,17,10,8,4,1
+52B,52,E-L2 vs E-L2,U2,eye,V,2,6,M,Non-Native,1,467,159,70,27,14,7,4,2,1,1
+52A,52,E-L2 vs E-L2,U1,wing,F,3,6,M,Non-Native,1,405,113,49,23,12,7,3,0,0,0
+52B,52,E-L2 vs E-L2,U2,wing,F,3,6,M,Non-Native,1,512,175,73,28,15,6,3,1,0,0
+53A,53,E-L2 vs E-L2,U1,wing,A,1,2,M,Non-Native,1,592,195,64,24,11,5,1,0,0,0
+53B,53,E-L2 vs E-L2,U2,wing,A,1,2,M,Non-Native,1,108,50,28,15,7,2,0,0,0,0
+53A,53,E-L2 vs E-L2,U1,thumb,V,2,2,M,Non-Native,1,445,111,46,29,15,8,1,1,0,0
+53B,53,E-L2 vs E-L2,U2,thumb,V,2,2,M,Non-Native,1,470,138,50,27,14,6,3,0,0,0
+53A,53,E-L2 vs E-L2,U1,eye,F,3,2,M,Non-Native,1,574,246,70,12,1,0,0,0,0,0
+53B,53,E-L2 vs E-L2,U2,eye,F,3,2,M,Non-Native,1,691,321,148,68,33,16,6,2,2,1
+54A,54,E-L2 vs E-L2,U1,eye,A,1,8,F,Non-Native,1,211,35,14,9,2,0,0,0,0,0
+54B,54,E-L2 vs E-L2,U2,eye,A,1,8,F,Non-Native,1,456,166,82,55,27,10,2,0,0,0
+54A,54,E-L2 vs E-L2,U1,wing,V,2,8,F,Non-Native,1,479,193,97,54,28,10,3,0,0,0
+54B,54,E-L2 vs E-L2,U2,wing,V,2,8,F,Non-Native,1,716,207,78,39,9,1,0,0,0,0
+54A,54,E-L2 vs E-L2,U1,thumb,F,3,8,F,Non-Native,1,508,168,84,49,17,2,0,0,0,0
+54B,54,E-L2 vs E-L2,U2,thumb,F,3,8,F,Non-Native,1,644,197,94,44,18,5,1,0,0,0
