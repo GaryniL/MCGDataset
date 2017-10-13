@@ -197,6 +197,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/MCGD_publication.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/MCGD_publication.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/MCGD_toolkit.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -346,6 +355,28 @@
 		"initialSize": 82104,
 		"inputAbbreviatedPath": "\/image\/Kinect.png",
 		"outputAbbreviatedPath": "\/image\/Kinect.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/pub-1-acm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180512,
+		"inputAbbreviatedPath": "\/image\/pub-1-acm.png",
+		"outputAbbreviatedPath": "\/image\/pub-1-acm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/pub-2-nthu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63727,
+		"inputAbbreviatedPath": "\/image\/pub-2-nthu.png",
+		"outputAbbreviatedPath": "\/image\/pub-2-nthu.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -589,6 +620,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/publication.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/publication.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/test.html": {
 		"fileType": 8192,
