@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<title>MSGD-Toolkit</title>
+		<title>MSGD-Dataset</title>
 		<!-- Bootstrap core CSS -->
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/dataTables.bootstrap.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 		<!-- Custom styles for this template -->
 		
 		<link href="css/MCGD.css" rel="stylesheet">	
-		<link href="css/MCGD_data_unitmotion.css" rel="stylesheet">
+		<link href="css/MCGD_data_wscount.css" rel="stylesheet">
 
 		
 	</head>
@@ -83,34 +83,19 @@
 				<li class="breadcrumb-item ">
 					<a href="index.html">Dataset</a>
 				</li>
-				<li class="breadcrumb-item active">Unit Motion Data</li>
+				<li class="breadcrumb-item active">Verbal Data</li>
 			</ol>
 			<div class="card mb-4" id="sk-data-list">
 				<div class="card-body">
 					<div class="row">
 						<div class="col-lg-6">
 							<a href="#">
-							<img class="img-fluid rounded" src="./image/unitmotion.png" alt="">
+							<img class="img-fluid rounded" src="./image/word&sentneces.png" alt="">
 							</a>
 						</div>
 						<div class="col-lg-6">
-							<h2 class="card-title">Unit Motions Data</h2>
-							<p class="card-text">This is description of this data type
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-						</div>
-						<div class="col-lg-6">
-							<br><br>
-							<h5 class="card-title">Definition of Unit Motion</h5>
-							<p>
-								Definition of a unit motion is that in the beginning, the speed of the motion should be slow (i.e., starting from speed zero or below the threshold we defined) and then the speed increases because of user using their gesture, after the motion speed reaching to crest, it would decrease again to zero or below threshold.
-							</p>
-						</div>
-						<div class="col-lg-6">
-							<br><br>
-							<h5 class="card-title">Speed Threshold</h5>
-							<p>
-								Figure above illustrate how a motion speed changes over time. We can find out that because of subtle body movement and imprecise skeleton tracking, there are lots of noises, and subtle unit motion in the raw data (also showing in the chart). The purpose of creating and selecting an appropriate value of threshold is to filter out uninteresting unit motions.
-							</p>
+							<h2 class="card-title">Words & Sentneces</h2>
+							<p class="card-text">A word means a single distinct meaningful element of speech, and sentence is a set of words that is complete in itself. In each utterance, we use an auto separation python program to separate utterance into sentences by period (.), question mark (?) and exclamation mark (!). In grammar rule, these symbols appear at the end of a sentence. Moreover, we calculated the number of words by separating those sentences with space and comma.</p>
 						</div>
 					</div>
 					<!-- row -->
@@ -121,28 +106,14 @@
 			<div class="card">
 				<div class="card-header" role="tab" id="headingOne">
 					<h5 class="mb-0">
-					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">[Table] Counts of Unit Motions<i class="fa fa-compress collapse-icon " aria-hidden="true"></i></a>
-					<a href="./data/unitmotion/data_unitmotion_count.csv" class="btn btn-primary data-um-dl-btn">Download CSV</a>
+					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">[Table] Counts of Words & Sentences<i class="fa fa-compress collapse-icon " aria-hidden="true"></i></a>
+					<a href="./data/data_word_and_sentence_counts.csv" class="btn btn-primary data-um-dl-btn">Download CSV</a>
 					</h5>
 				</div>
 				
 				<div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
 					<div class="card-body">
 						<div class="" id='table-container-count' style=" overflow: scroll;"></div>
-					</div>
-				</div>
-	        </div>
-	        <div class="card">
-				<div class="card-header" role="tab" id="headingTwo">
-					<h5 class="mb-0">
-					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseOne">[Table] Time of Unit Motions<i class="fa fa-compress collapse-icon" aria-hidden="true"></i></a>
-					<a href="./data/unitmotion/data_unitmotion_time.csv" class="btn btn-primary data-um-dl-btn">Download CSV</a>
-					</h5>
-				</div>
-				
-				<div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
-					<div class="card-body">
-						<div class="" id='table-container-time' style=" overflow: scroll;"></div>
 					</div>
 				</div>
 	        </div>
@@ -178,7 +149,7 @@
 	    <script type="text/javascript" src="js/datatable/jquery.dataTables.min.js"></script>
 	    <script type="text/javascript" src="js/datatable/dataTables.bootstrap.js"></script>
 	    <script type="text/javascript" src="js/datatable/csv_to_html_table.js"></script>
-		<script src="js/MCGD_data_unitmotion.js"></script>
+		<script src="js/MCGD_data_wscount.js"></script>
 	</body>
 </html>
 
