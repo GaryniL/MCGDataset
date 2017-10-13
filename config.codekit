@@ -284,6 +284,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/image\/experiment.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79002,
+		"inputAbbreviatedPath": "\/image\/experiment.png",
+		"outputAbbreviatedPath": "\/image\/experiment.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/image\/handvis.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -291,6 +302,50 @@
 		"initialSize": 237180,
 		"inputAbbreviatedPath": "\/image\/handvis.png",
 		"outputAbbreviatedPath": "\/image\/handvis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/idea.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 396569,
+		"inputAbbreviatedPath": "\/image\/idea.png",
+		"outputAbbreviatedPath": "\/image\/idea.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/idea2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67093,
+		"inputAbbreviatedPath": "\/image\/idea2.png",
+		"outputAbbreviatedPath": "\/image\/idea2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/kinect-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26138,
+		"inputAbbreviatedPath": "\/image\/kinect-2.jpg",
+		"outputAbbreviatedPath": "\/image\/kinect-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/Kinect.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82104,
+		"inputAbbreviatedPath": "\/image\/Kinect.png",
+		"outputAbbreviatedPath": "\/image\/Kinect.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -324,6 +379,17 @@
 		"initialSize": 96218,
 		"inputAbbreviatedPath": "\/image\/unitmotion.png",
 		"outputAbbreviatedPath": "\/image\/unitmotion.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/videoplayer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31562e+06,
+		"inputAbbreviatedPath": "\/image\/videoplayer.png",
+		"outputAbbreviatedPath": "\/image\/videoplayer.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
