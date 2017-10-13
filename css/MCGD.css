@@ -56,3 +56,10 @@ table.dataTable{
 	font-size: 9pt;
 	line-height: 1;
 }
+
+.reference{
+	font-weight: 100;
+	font-size: 0.8rem;
+	text-align: center;
+	color: #747474;
+}
