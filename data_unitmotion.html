@@ -93,25 +93,52 @@
 							<img class="img-fluid rounded" src="./image/unitmotion.png" alt="">
 							</a>
 						</div>
+
 						<div class="col-lg-6">
-							<h2 class="card-title">Unit Motions Data</h2>
-							<p class="card-text">This is description of this data type
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-						</div>
-						<div class="col-lg-6">
-							<br><br>
-							<h5 class="card-title">Definition of Unit Motion</h5>
+							<h2 class="card-title">Definition of Unit Motion</h2>
 							<p>
 								Definition of a unit motion is that in the beginning, the speed of the motion should be slow (i.e., starting from speed zero or below the threshold we defined) and then the speed increases because of user using their gesture, after the motion speed reaching to crest, it would decrease again to zero or below threshold.
 							</p>
-						</div>
-						<div class="col-lg-6">
-							<br><br>
-							<h5 class="card-title">Speed Threshold</h5>
+							<h2 class="card-title">Speed Threshold</h2>
 							<p>
 								Figure above illustrate how a motion speed changes over time. We can find out that because of subtle body movement and imprecise skeleton tracking, there are lots of noises, and subtle unit motion in the raw data (also showing in the chart). The purpose of creating and selecting an appropriate value of threshold is to filter out uninteresting unit motions.
 							</p>
+							
 						</div>
+						<div class="col-lg-12">
+							<!-- ================================== -->
+							<!-- ========= Data Structure ========= -->
+							<!-- ================================== -->
+							<h2 class="card-title">Data Structure</h2>
+							<ul>
+								<li><strong>File Format：<a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a></strong>, each CSV file include all groups.</li>
+								<li><strong>File Counts：2</strong> (Count table & Time table)</li>
+								<li><strong>Groups：</strong>36 (EL1-EL2:18,EL2:EL2:18)</li>
+								<li><strong>Participants per Group：</strong>2, total 72 participants.</li>
+								<li><strong>Media Condition：</strong>Audio, HandVis, Face-to-Face</li>
+								<li><strong>Data Type</strong>
+									<ul>
+										<li>Counts of total unit motion in each session (Threshold:0.0,0.05~0.5)&emsp;[Table 1]
+											<ul>
+												<li>Unit Motion Count：count of unit motion of each participants in each session.</li>
+												<li>Threshold：0.0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5</li>
+											</ul>
+										</li>
+										<li>Total & Average time of unit motions in each session (Threshold:0.0,0.05~0.5)&emsp;[Table 2]
+											<ul>
+												<li>UnitMotion_Time：Total time of unit motions in each session participants made.</li>
+												<li>Average time of unit motions in each session participants made.</li>
+												<li>Threshold：0.0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5</li>
+
+											</ul>
+										</li>
+									</ul>
+									
+								</li>
+							</ul>
+							<!-- ================================== -->
+						</div>
+						
 					</div>
 					<!-- row -->
 				</div>

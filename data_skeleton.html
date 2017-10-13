@@ -86,15 +86,34 @@
 							<p class="card-text">There are 36 group 108 experiments across three different task and communication media in our study. Hence, we collected 216 motion log files in our dataset.</p>
 							<p class="card-text">We use Microsoft Kinect tracking user's body movement in experiment and record it as skeleton data in 30 frames per second. We then formatted the skeleton data captured by Microsoft Kinect into plaintext. Researchers who want to analyze the data for further usage can read the data by a formatter script and transform it into any kind of format.</p>
 							<hr>
-						</div>
-						
-						<div class=" col-lg-12" >
 							<br><br>
-							<h4>File Structure</h4>
-							<p class="card-text">Example image shows the format of the skeleton data we got from experiment. We separated each skeleton session by a time point, time point of each session is approximately around 1/30 seconds, according to the frame speed of Microsoft Kinect. In each skeleton session, we log skeleton joints’ position of user. Each joint element denotes a position of user’s skeleton in the 3D space which contains individual’s three-dimensional positions (with x, y, z value) of 10 skeleton joints (head, shoulder, elbow, wrist, hand) at the time point. The length unit of each three-dimensional position is meter, we record them in second decimal place</p>
-							<br><hr>
 						</div>
 						
+						<div class=" col-lg-6" >
+							<!-- ================================== -->
+							<!-- ========= Data Structure ========= -->
+							<!-- ================================== -->
+							<h2 class="card-title">Data Structure</h2>
+							<ul>
+								<li><strong>File Format：TXT</strong>, each TXT file contains skeleton data of per participants in each session.</li>
+								<li><strong>File Counts：216</strong>(18000 frames per file)</li>
+								<li><strong>Groups：</strong>36 (EL1-EL2:18,EL2:EL2:18)</li>
+								<li><strong>Participants per Group：</strong>2, total 72 participants.</li>
+								<li><strong>Media Condition：</strong>Audio, HandVis, Face-to-Face</li>
+							</ul>
+							<br>
+							<!-- ================================== -->
+						</div>
+
+
+						<div class=" col-lg-6" >
+							<h2>File Format</h2>
+							<p class="card-text">Example image shows the format of the skeleton data we got from experiment. We separated each skeleton session by a time point, time point of each session is approximately around 1/30 seconds, according to the frame speed of Microsoft Kinect. In each skeleton session, we log skeleton joints’ position of user. Each joint element denotes a position of user’s skeleton in the 3D space which contains individual’s three-dimensional positions (with x, y, z value) of 10 skeleton joints (head, shoulder, elbow, wrist, hand) at the time point. The length unit of each three-dimensional position is meter, we record them in second decimal place</p>
+							<br>
+						</div>
+						<div class=" col-lg-12" >
+							<hr>
+						</div>
 						<div class=" col-lg-7" >
 							<br>
 							<h4>Equipment</h4>
