@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<title>MSGD-Dataset</title>
+		<title>MCGD-Verbal</title>
 		<!-- Bootstrap core CSS -->
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/dataTables.bootstrap.css" rel="stylesheet">
@@ -27,7 +27,7 @@
 		<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
 			<div class="container">
 				<a class="navbar-brand" href="index.html">
-					<h2>MSGDataset</h2>
+					<h2>MCGDataset</h2>
 				</a>
 				<!--RWD時Menu btn -->
 				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -88,15 +88,19 @@
 			<div class="card mb-4" id="sk-data-list">
 				<div class="card-body">
 					<div class="row">
-						<div class="col-lg-6">
+						<div class="col-lg-12">
 							<a href="#">
-							<img class="img-fluid rounded" src="./image/word&sentneces.png" alt="">
+							<img class="img-fluid rounded" src="./image/wordandsentence.png" alt="">
 							</a>
+							<br><hr><br> 
 						</div>
+						
 						<div class="col-lg-6">
 							<h2 class="card-title">Words & Sentneces</h2>
 							<p class="card-text">A word means a single distinct meaningful element of speech, and sentence is a set of words that is complete in itself. In each utterance, we use an auto separation python program to separate utterance into sentences by period (.), question mark (?) and exclamation mark (!). In grammar rule, these symbols appear at the end of a sentence. Moreover, we calculated the number of words by separating those sentences with space and comma.</p>
 							<br>
+						</div>
+						<div class="col-lg-6">
 							<!-- ================================== -->
 							<!-- ========= Data Structure ========= -->
 							<!-- ================================== -->
@@ -109,17 +113,15 @@
 								<li><strong>Media Condition：</strong>Audio, HandVis, Face-to-Face</li>
 								<li><strong>Data Type</strong>：Counts of words & sentences (Threshold:0.0,0.05~0.5)&emsp;[Table 1]
 								</li>
+								<p class="reference" style="text-align: left;">Due to experimenter error, the audio data was not captured for a few of the participant groups (G01&G06)</p>
 							</ul>
+							
 							<!-- ================================== -->
 						</div>
 						
 					</div>
 					<!-- row -->
 				</div>
-				
-			</div>
-			<!-- card mb-4 -->
-			<div class="card">
 				<div class="card-header" role="tab" id="headingOne">
 					<h5 class="mb-0">
 					<a class="collapsed title-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">[Table] Counts of Words & Sentences<i class="fa fa-compress collapse-icon " aria-hidden="true"></i></a>
@@ -132,7 +134,44 @@
 						<div class="" id='table-container-count' style=" overflow: scroll;"></div>
 					</div>
 				</div>
-	        </div>
+			</div>
+			
+	        <div class="card mb-4" id="sk-data-list">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-lg-6">
+							<a href="#">
+							<img class="img-fluid rounded" src="./image/word&sentneces.png" alt="">
+							</a>
+						</div>
+						<div class="col-lg-6">
+							<h2 class="card-title">Transcription Files</h2>
+							<p class="card-text">A word means a single distinct meaningful element of speech, and sentence is a set of words that is complete in itself. In each utterance, we use an auto separation python program to separate utterance into sentences by period (.), question mark (?) and exclamation mark (!). In grammar rule, these symbols appear at the end of a sentence. Moreover, we calculated the number of words by separating those sentences with space and comma.</p>
+						</div>
+						<div class="col-lg-6">
+							<!-- ================================== -->
+							<!-- ========= Data Structure ========= -->
+							<!-- ================================== -->
+							<h2 class="card-title">Data Structure</h2>
+							<ul>
+								<li><strong>File Format：<a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a></strong>, each CSV file include all groups.</li>
+								<li><strong>File Counts：1</strong></li>
+								<li><strong>Groups：</strong>36 (EL1-EL2:18,EL2:EL2:18)</li>
+								<li><strong>Participants per Group：</strong>2, total 72 participants.</li>
+								<li><strong>Media Condition：</strong>Audio, HandVis, Face-to-Face</li>
+								<li><strong>Data Type</strong>：Counts of words & sentences (Threshold:0.0,0.05~0.5)&emsp;[Table 1]
+								</li>
+								<p class="reference" style="text-align: left;">Due to experimenter error, the audio data was not captured for a few of the participant groups (G01&G06)</p>
+							</ul>
+							
+							<!-- ================================== -->
+						</div>
+						
+					</div>
+					<!-- row -->
+				</div>
+				
+			</div>
 		</div>
 		</div>
 		<br><br><br>

@@ -454,6 +454,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/image\/wordandsentence.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80505,
+		"inputAbbreviatedPath": "\/image\/wordandsentence.png",
+		"outputAbbreviatedPath": "\/image\/wordandsentence.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
