@@ -100,22 +100,22 @@
 							<ul>
 								<li><strong>File Format：<a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a></strong>, each CSV file include all groups.</li>
 								<li><strong>File Counts：2</strong> (Count table & Time table)</li>
-								<li><strong>Groups：</strong>36 (EL1-EL2:18,EL2:EL2:18)</li>
+								<li><strong>Groups：</strong>36 (EL1-EL2: 18, EL2-EL2: 18)</li>
 								<li><strong>Participants per Group：</strong>2, total 72 participants.</li>
 								<li><strong>Media Condition：</strong>Audio, HandVis, Face-to-Face</li>
 								<li><strong>Data Type：3</strong>
 									<ul>
-										<li>Counts of total unit motion in each session (Threshold:0.0,0.05~0.5)&emsp;[Table 1]
+										<li>Counts of total unit motion in each session (Threshold: 0.0, 0.05~0.5)&emsp;[Table 1]
 											<ul>
 												<li>Unit Motion Count：count of unit motion of each participants in each session.</li>
-												<li>Threshold：0.0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5</li>
+												<li>Threshold: 0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5</li>
 											</ul>
 										</li>
-										<li>Total & Average time of unit motions in each session (Threshold:0.0,0.05~0.5)&emsp;[Table 2]
+										<li>Total & Average time of unit motions in each session (Threshold: 0.0, 0.05~0.5)&emsp;[Table 2]
 											<ul>
-												<li>UnitMotion_Time：Total time of unit motions in each session participants made.</li>
+												<li>UnitMotion_Time: Total time of unit motions in each session participants made.</li>
 												<li>Average time of unit motions in each session participants made.</li>
-												<li>Threshold：0.0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5</li>
+												<li>Threshold: 0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5</li>
 
 											</ul>
 										</li>
@@ -129,12 +129,12 @@
 						<div class="col-lg-6">
 							<h2 class="card-title">Definition of Unit Motion</h2>
 							<p>
-								Definition of a unit motion is that in the beginning, the speed of the motion should be slow (i.e., starting from speed zero or below the threshold we defined) and then the speed increases because of user using their gesture, after the motion speed reaching to crest, it would decrease again to zero or below threshold.
+								Definition of a unit motion: in the beginning, the speed of the motion should be slow (i.e., starting from speed zero or below the threshold we defined) and then the speed increases because of user using their gesture, after the motion speed reaching to crest, it would decrease again to zero or below threshold.
 							</p>
 							<p class="reference" style="text-align: left;">Wang, H. C., & Lai, C. T. (2014, April). Kinect-taped communication: using motion sensing to study gesture use and similarity in face-to-face and computer-mediated brainstorming. In Proceedings of the 32nd annual ACM conference on Human factors in computing systems (pp. 3205-3214). ACM.</p>
 							<h2 class="card-title">Speed Threshold</h2>
 							<p>
-								Figure above illustrate how a motion speed changes over time. We can find out that because of subtle body movement and imprecise skeleton tracking, there are lots of noises, and subtle unit motion in the raw data (also showing in the chart). The purpose of creating and selecting an appropriate value of threshold is to filter out uninteresting unit motions.
+								The figure above illustrates how a motion speed changes over time. We can find that is because of subtle body movement and imprecise skeleton tracking; there are lots of noises, and subtle unit motion in the raw data (also showing in the chart). The purpose of creating and selecting an appropriate threshold value is to filter out uninteresting unit motions.
 							</p>
 							
 						</div>
