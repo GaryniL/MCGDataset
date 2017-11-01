@@ -5,6 +5,6 @@
 .footer-bottom {
     min-height: 30px;
     width: 100%;
-    position: absolute;
+/*     position: absolute; */
 	bottom: 0;
 }

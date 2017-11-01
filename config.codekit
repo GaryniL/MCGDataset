@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19115",
+"creatorBuild": "19137",
 "files": {
 	"\/bootstrap\/css\/bootstrap-glyphicons.css": {
 		"fileType": 16,
@@ -344,13 +344,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/image\/idea2.png": {
+	"\/image\/idea2-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 67093,
-		"inputAbbreviatedPath": "\/image\/idea2.png",
-		"outputAbbreviatedPath": "\/image\/idea2.png",
+		"inputAbbreviatedPath": "\/image\/idea2-1.png",
+		"outputAbbreviatedPath": "\/image\/idea2-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/idea2-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67093,
+		"inputAbbreviatedPath": "\/image\/idea2-2.png",
+		"outputAbbreviatedPath": "\/image\/idea2-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/idea2-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67093,
+		"inputAbbreviatedPath": "\/image\/idea2-3.png",
+		"outputAbbreviatedPath": "\/image\/idea2-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -606,6 +628,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/MCGD_index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/MCGD_index.js",
+		"outputAbbreviatedPath": "\/js\/min\/MCGD_index-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/min\/MCGD_data_categorized_gestures-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -656,6 +689,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/MCGD_data_wscount-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/MCGD_data_wscount-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/MCGD_index-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/MCGD_index-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/MCGD_index-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

@@ -1,5 +1,8 @@
 body {
     padding-top: 56px;
+    font-weight: 200;
+	color: #747474;
+	letter-spacing:0.06em;
 }
 
 @media (max-width: 480px) {
@@ -62,4 +65,31 @@ table.dataTable{
 	font-size: 0.8rem;
 	text-align: center;
 	color: #747474;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	letter-spacing:0em;
+}
+
+#bigtitle{
+	font-weight: 200;
+	font-size: 50px;
+	color: #747474;
+	margin-top: 30px;
+	font-family: 'Fjalla One', sans-serif;
+}
+.strongtitle{
+	font-weight: 400;
+	font-size: 50px;
+	color: #424242;
+	display:inline;
+	line-height: 57px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar-brand{
+	font-family: 'Fjalla One', sans-serif;
+	
+}
+
+.contentformat{
+	text-align: justify;
 }

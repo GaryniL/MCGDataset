@@ -1,0 +1,1 @@
+function onHover(){var a=new Array("image/idea2-1.png","image/idea2-2.png","image/idea2-3.png"),e=a[Math.floor(Math.random()*a.length)];$("#menuImg").attr("src",e)}function offHover(){var a=new Array("image/idea2-1.png","image/idea2-2.png","image/idea2-3.png"),e=a[Math.floor(Math.random()*a.length)];$("#menuImg").attr("src",e)}

@@ -24,10 +24,13 @@
 
 		<script src="./js/jquery/jquery.min.js"></script>
 		<script src="./js/jquery/jquery.js"></script>
+		<script src="/js/MCGD_index.js"></script>
 		<script src="https://cdn.datatables.net/responsive/2.2.0/js/responsive.bootstrap.min.js"></script>
 		<script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
 		<script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js"></script>
 		<script src="https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js"></script>
+		
+		<link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
 	</head>
 	<body>
 		<!-- Navigation -->
@@ -74,8 +77,9 @@
 		<!-- Page Content -->
 		<div class="container">
 			<!-- 標題/副標 -->
-			<h1 class="mt-4 mb-3">MCGD
-			</h1>
+			<br>
+			<h1 id="bigtitle" class="mt-4 mb-3"><p class="strongtitle">M</p>ultidimensionally <p class="strongtitle">C</p>odified <p class="strongtitle">G</p>esture <p class="strongtitle">D</p>ataset for interpersonal communication research</h1>
+			<br>
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item">
 					<a href="index.html">Home</a>
@@ -87,11 +91,13 @@
 				</div>
 				<div class="col-lg-6">
 					<h2>About this Dataset</h2><br>
-					<p>This dataset comprises of 216 sequences, 3888000 frames (approx. 36 hours) collected from a cross-lingual communication study using 36 participant pairs between 2 language proficiency groups.
+					<p class="contentformat">This dataset comprises of 216 sequences, 3888000 frames (approx. 36 hours) collected from a cross-lingual communication study using 36 participant pairs between 2 language proficiency groups.
 					</p>
-					<p>There are 5 different types of data. All data were collected in a cross-lingual communication lab study. Verbal data, ideas and gestures performed by each participants were collected. Each group performed 10 minutes of motion interpreted as skeleton data, for a total of 216 sequences, 3888000 frames.
+					<p class="contentformat">There are 5 different types of data. All data were collected in a cross-lingual communication lab study. Verbal data, ideas and gestures performed by each participants were collected. Each group performed 10 minutes of motion interpreted as skeleton data, for a total of 216 sequences, 3888000 frames.
 					</p>
-					<p>Each pair contained 2 people, with two kinds of language proficiency groups: native speaker vs. non-native speaker (EL1-EL2) and both non-native speakers (EL2-EL2)) performing 4 kinds of gestures (iconic, metaphoric, pointing and non-iconic). </p>
+				</div>
+				<div class="col-lg-12">
+					<p class="contentformat">Each pair consists of 2 interlocutors, recruiting from two language proficiency groups: high English proficiency speakers (EL1) interacting with low English proficiency users (EL2) (i.e., EL1-EL2) and two low English proficiency speakers interacting with one another (EL2-EL2). Each conversational pair participated three brainstorming sessions sequentially, using three different communication media (face-to-face, audio-only, video with visualization support) respectively. Non-verbal hand movement traces were collected using  video and Microsoft's Kinect sensors. Video-taped gesture data were manually segmented and coded into four classes of gesture (iconic, metaphoric, pointing and non-iconic). </p>
 				</div>
 			</div>
 			<!-- /.row -->
@@ -103,7 +109,7 @@
 					<div class="card h-100">
 						<h4 class="card-header">Skeleton Position <br>Raw Data</h4>
 						<div class="card-body">
-							<p class="card-text">We captured participants' skeleton data via Kinect in our experiment. Each file contains 10 minutes, 18000 frames of skeleton data of each skeleton joint from participants in each session.</p>
+							<p class="card-text ">We captured participants' skeleton data via Kinect in our experiment. Each file contains 10 minutes, 18000 frames of skeleton data of each skeleton joint from participants in each session.</p>
 						</div>
 						<div class="card-footer">
 							<a href="./data_skeleton.html" class="btn btn-primary">See More</a>
@@ -114,7 +120,7 @@
 					<div class="card h-100">
 						<h4 class="card-header">Unit Motion Data<br>&nbsp;</h4>
 						<div class="card-body">
-							<p class="card-text">By an algorithm based on the definition of unit motion, we converted the skeleton raw data we collected into unit motion data. </p>
+							<p class="card-text ">By an algorithm based on the definition of unit motion, we converted the skeleton raw data we collected into unit motion data. </p>
 						</div>
 						<div class="card-footer">
 							<a href="./data_unitmotion.html" class="btn btn-primary">See More</a>
@@ -123,9 +129,9 @@
 				</div>
 				<div class="col-lg-4 mb-4">
 					<div class="card h-100">
-						<h4 class="card-header">Amount of Categorized Gestures</h4>
+						<h4 class="card-header" style="font-size: 28px">Amount of Categorized Gestures</h4>
 						<div class="card-body">
-							<p class="card-text">We defined four types of gestures and the coding method. We coded the counts of different types of gestures that appeared in each experiment session.</p>
+							<p class="card-text ">We defined four types of gestures and the coding method. We coded the counts of different types of gestures that appeared in each experiment session.</p>
 						</div>
 						<div class="card-footer">
 							<a href="./data_categorized_gestures.html" class="btn btn-primary">See More</a>
@@ -136,7 +142,7 @@
 					<div class="card h-100">
 						<h4 class="card-header">Idea Counts</h4>
 						<div class="card-body">
-							<p class="card-text">Idea is the semantic component related to the brainstorming topic we assigned to participants. We count ideas in each session, and attribute the idea to the speaker who first blurted it.</p>
+							<p class="card-text ">Idea is the semantic component related to the brainstorming topic we assigned to participants. We count ideas in each session, and attribute the idea to the speaker who first blurted it.</p>
 						</div>
 						<div class="card-footer">
 							<a href="./data_idea.html" class="btn btn-primary">See More</a>
@@ -147,7 +153,7 @@
 					<div class="card h-100">
 						<h4 class="card-header">Verbal Data</h4>
 						<div class="card-body">
-							<p class="card-text">Words, Sentences, according to the English grammar rule and produced by transcription files of each session.</p>
+							<p class="card-text ">Words, Sentences, according to the English grammar rule and produced by transcription files of each session.</p>
 						</div>
 						<div class="card-footer">
 							<a href="./data_verbal.html" class="btn btn-primary">See More</a>
@@ -160,8 +166,8 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<h2>Experiment Design</h2><br>
-					<p>We recruited 64 naïve subjects to participate in our study, grouped into 2 main groups (EL1-EL2: native speaker vs. non-native speaker &amp; EL2-EL2: both non-native speakers), each main group contained 16 pairs.</p>
-					<p>Each pair was brought to the laboratory and was asked to discuss three brainstorming tasks (below) with three different conditions (audio, face-to-face, HandVis).</p>
+					<p class="contentformat">We recruited 64 naïve subjects to participate in our study, grouped into 2 main groups (EL1-EL2: native speaker vs. non-native speaker &amp; EL2-EL2: both non-native speakers), each main group contained 16 pairs.</p>
+					<p class="contentformat">Each pair was brought to the laboratory and was asked to discuss three brainstorming tasks (below) with three different conditions (audio, face-to-face, HandVis).</p>
 					<br><br><br>
 				</div>
 				<div class="col-lg-6">
@@ -169,11 +175,12 @@
 				</div>
 				<br><br>
 				<div class="col-lg-6">
-					<img class="img-fluid rounded mb-4" src="./image/idea2.png" alt="">
+					<img id="menuImg" class="img-fluid rounded mb-4" src="./image/idea2-1.png" alt="" onmouseover="onHover();" onmouseout="offHover();">
+					<p class="reference" style="text-align: center;">The “Extra Eye” brainstorming task used in our study.<br>Copyright: Yi-Chuan Chen, 2010</p>
 				</div>
 				<div class="col-lg-6">
 					<h3>Brainstorming Task</h3><br>
-					<p>The "Extra Eye","Extra Thumb" and "Extra Wings" brainstorming tasks were used in our study. For example, participants were asked, "What are the benefits and difficulties if people had an third eye in the future?" for the task "Extra Eye".</p>
+					<p class="contentformat">The "Extra Eye","Extra Thumb" and "Extra Wings" brainstorming tasks were used in our study. For example, participants were asked, "What are the benefits and difficulties if people had an third eye in the future?" for the task "Extra Eye".</p>
 					<br><br><br>
 				</div>
 			</div>
