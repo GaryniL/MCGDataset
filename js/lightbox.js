@@ -275,14 +275,15 @@
 
     this.$outerContainer.addClass('animating');
 	
-	var maxImageHeight;
+	var lightbox = this.$lightbox;
+	
     // When image to show is preloaded, we send the width and height to sizeContainer()
     var preloader = new Image();
     preloader.onload = function() {
       var $preloader;
       var imageHeight;
       var imageWidth;
-//       var maxImageHeight;
+      var maxImageHeight;
       var maxImageWidth;
       var windowHeight;
       var windowWidth;
@@ -293,7 +294,16 @@
 
       $image.width(preloader.width);
       $image.height(preloader.height);
-
+	  
+	  	//TODO
+		var fixedlightboxtop = lightboxtop + ($(window).height() - preloader.height )/2 - 67;
+		console.log($(window).height());
+		console.log(preloader.height);
+		lightbox.css({
+			top: fixedlightboxtop + 'px',
+			left: 0 + 'px'
+		});
+		
       if (self.options.fitImagesInViewport) {
         // Fit image inside the viewport.
         // Take into account the border around the image and an additional 10px gutter on each side.
@@ -341,14 +351,7 @@
     preloader.src          = this.album[imageNumber].link;
     this.currentImageIndex = imageNumber;
 	
-	//TODO
-	var fixedlightboxtop = lightboxtop + ($(window).height() - maxImageHeight )/2;
-	console.log($(window).height());
-	console.log(maxImageHeight);
-    this.$lightbox.css({
-      top: fixedlightboxtop + 'px',
-      left: lightboxleft + 'px'
-    });
+	
   };
 
   // Stretch overlay to fit the viewport
