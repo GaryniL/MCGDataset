@@ -8,6 +8,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<title>MCGD-Verbal</title>
+		<link rel="icon" href="./image/icon.png">
 		<!-- Bootstrap core CSS -->
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/dataTables.bootstrap.css" rel="stylesheet">
@@ -19,8 +20,12 @@
 		
 		<link href="css/MCGD.css" rel="stylesheet">	
 		<link href="css/MCGD_data_wscount.css" rel="stylesheet">
-
+		<link href="css/MCGD_data_verbal.css" rel="stylesheet">
+		
 		<link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="js/MCGD_data_verbal.js"></script>
 	</head>
 	<body>
 		<!-- Navigation -->
@@ -55,7 +60,7 @@
 							<a class="nav-link" href="toolkit.html">Toolkit</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="publication.html">Publication</a>
+							<a class="nav-link" href="publication.html">Publication&Thesis</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="contact.html">Contact</a>
@@ -136,7 +141,7 @@
 				</div>
 			</div>
 			
-	        <div class="card mb-4" id="sk-data-list" style="display: none">
+	        <div class="card mb-4" id="verbal-data-list" >
 				<div class="card-body">
 					<div class="row">
 						<div class="col-lg-6">
@@ -169,6 +174,7 @@
 						
 					</div>
 					<!-- row -->
+					<button onclick="topFunction()" id="scrollTopBtn" title="Go to top">Top</button>
 				</div>
 				
 			</div>

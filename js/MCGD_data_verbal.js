@@ -1,6 +1,6 @@
 
 // add name to html
-function addFilesToHTML(filename,fullname,titlecnt,group,groupID,mode,user,time){
+function addFilesToHTML(filename,fullname,titlecnt,group,groupID,mode,time){
 // 	console.log($('#sk-data-list'));
 	
 	var divhead = "<div class=\"card-footer text-muted\">";
@@ -14,7 +14,7 @@ function addFilesToHTML(filename,fullname,titlecnt,group,groupID,mode,user,time)
 	// content
 	// <p>Group：1&emsp;&emsp;Mode：Audio&emsp;&emsp;User：U2&emsp;&emsp;Recored on 2015_08_16</p>
 	var cnthead = "<p>";
-	var cnt = group + "&emsp;&emsp;" + mode + "&emsp;&emsp;" + user + "&emsp;&emsp;" + time;
+	var cnt =  mode + "&emsp;&emsp;" + time;
 	var cntend = "</p>";
 	cnt = cnthead + cnt + cntend;
 	
@@ -27,7 +27,7 @@ function addFilesToHTML(filename,fullname,titlecnt,group,groupID,mode,user,time)
 	// Local
 // 	var link = "./data/skeleton_data/"+groupID+'/'+fullname;
 	// Gary's Server
-	var link = "https://dev.garynil.tw/data/skeleton/"+groupID+'/'+fullname;
+	var link = "https://dev.garynil.tw/data/Transcription/"+fullname+'.csv';
 	
 	
 	var linkhead2 = " \" class=\"btn btn-outline-primary sk-data-dl-btn\" target=\"_blank\">";
@@ -38,32 +38,30 @@ function addFilesToHTML(filename,fullname,titlecnt,group,groupID,mode,user,time)
 	var divend = "</div>";
 	
 	var this_html = divhead+title+cnt+linkcnt+divend;
-	$('#sk-data-list').append(this_html);
+	$('#verbal-data-list').append(this_html);
 }
 
 
 
 // process json file name to html format
 function processFileNameToListName(filename){
-// 	console.log(filename);
+	console.log(filename);
 	
 	var arr1 = filename.split('.');
-	var arr2 = arr1[0].split('#');
+	var arr2 = arr1[0].split('_');
 	
 	var title = arr2[0];
 	var gunarr = arr2[0].split('_');
 // 	console.log(gunarr);
-	var groupID = gunarr[0];
-	var group = "Group："+gunarr[0].replace("G", "");
-// 	console.log(group);
-	var user = "User："+gunarr[1];
-// 	console.log(user);
-	var mode = "Mode："+gunarr[2].replace("M", "")[0];
+	var groupID = parseInt(arr2[0].replace("G", ""));
+	var group = "Group："+arr2[0].replace("G", "");
+// 	console.log(groupID);
+	var mode = "Mode："+arr2[1].replace("M", "")[0];
 // 	console.log(mode);
-	var time = "Recored on "+arr2[1].split('T')[0];
+	var time = "Recored on "+arr2[3];
 // 	console.log(time);
-	filename = filename.replace("#", "%23");
-	addFilesToHTML(filename,filename,title,group,groupID,mode,user,time);
+	filename = arr1[0];
+	addFilesToHTML(filename,filename,title,group,groupID,mode,time);
 }
 
 function listAllFiles(file_arr) {
@@ -73,11 +71,12 @@ function listAllFiles(file_arr) {
     }
 }
 
-$.getJSON("./data/skeleton_data/skeleton-data-files.json", function(data) {
+$.getJSON("./data/transcriptionfilelist.json", function(data) {
 // 	console.log(data["Files"]);
 	var files_array = data.Files;
 	listAllFiles(files_array);
 });
+
 
 
 window.onscroll = function() {scrollFunction()};
@@ -100,9 +99,3 @@ function topFunction() {
 	});
 }
 
-
-/*
-$( document ).ready(function() {
-
-});
-*/

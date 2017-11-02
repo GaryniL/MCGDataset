@@ -197,6 +197,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/MCGD_data_verbal.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/MCGD_data_verbal.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/MCGD_data_wscount.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -240,6 +249,17 @@
 		"inputAbbreviatedPath": "\/data\/skeleton_data\/skeleton-data-files.json",
 		"orderOutput": 0,
 		"outputAbbreviatedPath": "\/data\/skeleton_data\/skeleton-data-files-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/data\/transcriptionfilelist.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/data\/transcriptionfilelist.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/data\/transcriptionfilelist-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
@@ -338,6 +358,17 @@
 		"initialSize": 237180,
 		"inputAbbreviatedPath": "\/image\/handvis.png",
 		"outputAbbreviatedPath": "\/image\/handvis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9190,
+		"inputAbbreviatedPath": "\/image\/icon.png",
+		"outputAbbreviatedPath": "\/image\/icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -670,6 +701,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/MCGD_data_verbal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/MCGD_data_verbal.js",
+		"outputAbbreviatedPath": "\/js\/min\/MCGD_data_verbal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/MCGD_data_wscount.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -742,6 +784,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/MCGD_data_unitmotion-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/MCGD_data_unitmotion-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/MCGD_data_verbal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/MCGD_data_verbal-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/MCGD_data_verbal-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

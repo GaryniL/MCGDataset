@@ -8,6 +8,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<title>MCGD-Skeleton</title>
+		<link rel="icon" href="./image/icon.png">
 		<!-- Bootstrap core CSS -->
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<!-- Custom styles for this template -->
@@ -53,7 +54,7 @@
 							<a class="nav-link" href="toolkit.html">Toolkit</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="publication.html">Publication</a>
+							<a class="nav-link" href="publication.html">Publication&Thesis</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="contact.html">Contact</a>
@@ -85,8 +86,8 @@
 						</div>
 						<div class="col-lg-6">
 							<h2 class="card-title">Skeleton Raw data</h2>
-							<p class="card-text">There are 36 group, 108 experiments across three different tasks and communication media conditions in our study. Hence, we collected 216 motion log files in our dataset.</p>
-							<p class="card-text">We used Microsoft Kinect to track users' body movement in the experiment and recorded it as skeleton data in 30 frames per second. We then formatted the skeleton data captured by Microsoft Kinect into plaintext. Researchers who want to analyze the data for further usage can read the data by a formatter script and transform it into any kind of format.</p>
+							<p class="card-text contentformat">There are 36 group, 108 experiments across three different tasks and communication media conditions in our study. Hence, we collected 216 motion log files in our dataset.</p>
+							<p class="card-text contentformat">We used Microsoft Kinect to track users' body movement in the experiment and recorded it as skeleton data in 30 frames per second. We then formatted the skeleton data captured by Microsoft Kinect into plaintext. Researchers who want to analyze the data for further usage can read the data by a formatter script and transform it into any kind of format.</p>
 							<hr>
 							<br><br>
 						</div>
@@ -110,7 +111,7 @@
 
 						<div class=" col-lg-6" >
 							<h2>File Format</h2>
-							<p class="card-text">Example image shows the format of the skeleton data we got from the experiment. We separated each skeleton session by individual points in time; each time point occurs once every 1/30 seconds, according to the frame speed of Microsoft Kinect. In each skeleton session, we log skeleton joints’ position of the user. Each joint element denotes a position of the user’s skeleton in the 3D space which contains individual’s three-dimensional positions (with x, y, z values) of 10 skeleton joints (head, shoulder, elbow, wrist, hand) at the time point. The length unit of each three-dimensional position is meters, we recorded them up to two decimal places.</p>
+							<p class="card-text contentformat">Example image shows the format of the skeleton data we got from the experiment. We separated each skeleton session by individual points in time; each time point occurs once every 1/30 seconds, according to the frame speed of Microsoft Kinect. In each skeleton session, we log skeleton joints’ position of the user. Each joint element denotes a position of the user’s skeleton in the 3D space which contains individual’s three-dimensional positions (with x, y, z values) of 10 skeleton joints (head, shoulder, elbow, wrist, hand) at the time point. The length unit of each three-dimensional position is meters, we recorded them up to two decimal places.</p>
 							<br>
 						</div>
 						<div class=" col-lg-12" >
@@ -119,9 +120,9 @@
 						<div class=" col-lg-7" >
 							<br>
 							<h4>Equipment</h4>
-							<p class="card-text">In our experiment, We put two Kinect cameras in the middle, directed outward toward each participant to capture their skeleton data without showing RGB streaming video and system interface in front of them in other two modes.</p>
-							<p><a href="toolkit.html">Kinect Taping toolkit</a> was developed for sensing and recording users’ skeleton data and then transforming it into visualization effects with Microsoft Kinect Standard Development Kit (SDK) v1.8. With Kinect Sensor, users’ skeleton data such as head, hand position and face feature points, can be captured at the rate of 30 frames per second. Each joint data point contains a 3D coordinates position (x, y, z), and we recorded it with timestamp for each 1/30 seconds and positional values (x, y, z) of each joint at that time.</p>
-							<p>Moreover, in the experiment, participants could only sit on a chair which was at a 120cm distance from the Kinect sensor and monitor. Before the start of each experiment, they were told to sit still and not to stand up, in order to prevent periods of lost tracking by the Kinect.</p>
+							<p class="card-text contentformat">In our experiment, We put two Kinect cameras in the middle, directed outward toward each participant to capture their skeleton data without showing RGB streaming video and system interface in front of them in other two modes.</p>
+							<p class="contentformat"><a href="toolkit.html">Kinect Taping toolkit</a> was developed for sensing and recording users’ skeleton data and then transforming it into visualization effects with Microsoft Kinect Standard Development Kit (SDK) v1.8. With Kinect Sensor, users’ skeleton data such as head, hand position and face feature points, can be captured at the rate of 30 frames per second. Each joint data point contains a 3D coordinates position (x, y, z), and we recorded it with timestamp for each 1/30 seconds and positional values (x, y, z) of each joint at that time.</p>
+							<p class="contentformat">Moreover, in the experiment, participants could only sit on a chair which was at a 120cm distance from the Kinect sensor and monitor. Before the start of each experiment, they were told to sit still and not to stand up, in order to prevent periods of lost tracking by the Kinect.</p>
 						</div>
 						<div class="col-lg-1"></div>
 						<div class="col-lg-4">
@@ -159,6 +160,7 @@
 			<!-- card mb-4 -->
 		</div>
 		</div>
+		<button onclick="topFunction()" id="scrollTopBtn" title="Go to top">Top</button>
 		<!-- /.container -->
 		<!-- Footer -->
 		<div class="footer-bottom bg-dark">

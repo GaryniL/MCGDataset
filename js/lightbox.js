@@ -295,8 +295,7 @@
       $image.width(preloader.width);
       $image.height(preloader.height);
 	  
-	  	//TODO
-		var fixedlightboxtop = lightboxtop + ($(window).height() - preloader.height )/2 - 67;
+	  		var fixedlightboxtop = lightboxtop + ($(window).height() - preloader.height )/2 - 67;
 		console.log($(window).height());
 		console.log(preloader.height);
 		lightbox.css({
